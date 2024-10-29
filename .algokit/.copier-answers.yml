@@ -1,0 +1,9 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 2.0.12
+_src_path: gh:algorandfoundation/algokit-fullstack-template
+author_email: samuellyworld@gmail.com
+author_name: John Doe
+contract_name: TrailCheq
+preset_name: starter
+project_name: trailcheq
+
