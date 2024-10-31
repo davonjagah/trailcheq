@@ -20,6 +20,10 @@
         {
           "name": "imageURL",
           "type": "string"
+        },
+        {
+          "name": "owner",
+          "type": "string"
         }
       ],
       "returns": {
@@ -35,7 +39,7 @@
         }
       ],
       "returns": {
-        "type": "(string,uint64)"
+        "type": "((string,string,string,string,bool),uint64)"
       }
     },
     {
