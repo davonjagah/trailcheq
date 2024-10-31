@@ -1,6 +1,6 @@
 #pragma version 10
 
-// contracts/TrailCheq.algo.ts:47
+// contracts/TrailCheq.algo.ts:61
 // this.productCount.value = 0
 pushbytes 0x636f756e74 // "count"
 pushint 0

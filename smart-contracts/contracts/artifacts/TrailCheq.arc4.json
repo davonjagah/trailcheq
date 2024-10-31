@@ -16,6 +16,10 @@
         {
           "name": "description",
           "type": "string"
+        },
+        {
+          "name": "imageURL",
+          "type": "string"
         }
       ],
       "returns": {
@@ -31,7 +35,7 @@
         }
       ],
       "returns": {
-        "type": "string"
+        "type": "(string,uint64)"
       }
     },
     {
