@@ -1,0 +1,72 @@
+{
+  "name": "TrailCheq",
+  "desc": "",
+  "methods": [
+    {
+      "name": "createProduct",
+      "args": [
+        {
+          "name": "id",
+          "type": "uint64"
+        },
+        {
+          "name": "name",
+          "type": "string"
+        },
+        {
+          "name": "description",
+          "type": "string"
+        }
+      ],
+      "returns": {
+        "type": "void"
+      }
+    },
+    {
+      "name": "getProduct",
+      "args": [
+        {
+          "name": "id",
+          "type": "uint64"
+        }
+      ],
+      "returns": {
+        "type": "string"
+      }
+    },
+    {
+      "name": "updateProduct",
+      "args": [
+        {
+          "name": "id",
+          "type": "uint64"
+        },
+        {
+          "name": "name",
+          "type": "string"
+        },
+        {
+          "name": "description",
+          "type": "string"
+        }
+      ],
+      "returns": {
+        "type": "void"
+      }
+    },
+    {
+      "name": "getProductCount",
+      "args": [],
+      "returns": {
+        "type": "uint64"
+      }
+    },
+    {
+      "name": "createApplication",
+      "args": [],
+      "returns": {
+        "type": "void"
+      }
+    }
+  ]
+}

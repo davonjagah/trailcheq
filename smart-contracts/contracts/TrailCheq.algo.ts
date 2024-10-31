@@ -1,57 +1,49 @@
 import { Contract } from '@algorandfoundation/tealscript';
 
+
+
 export class TrailCheq extends Contract {
-  /**
-   * Calculates the sum of two numbers
-   *
-   * @param a
-   * @param b
-   * @returns The sum of a and b
-   */
-  private getSum(a: uint64, b: uint64): uint64 {
-    return a + b;
-  }
+   // Counter for total products
+   productCount = GlobalStateKey<uint64>({ key: 'count' });
+    
+   // Box storage for multiple products
+   products = BoxMap<uint64, string>();
+   
 
-  /**
-   * Calculates the difference between two numbers
-   *
-   * @param a
-   * @param b
-   * @returns The difference between a and b.
-   */
-  private getDifference(a: uint64, b: uint64): uint64 {
-    return a >= b ? a - b : b - a;
-  }
+   createProduct(id: uint64, name: string, description: string): void {
+       // Verify product doesn't exist
+       assert(!this.products(id).exists);
+       
+       // Store product as concatenated string
+       const productInfo = name + "|" + description;
+       this.products(id).value = productInfo;
+       
+       // Increment product count
+       this.productCount.value = this.productCount.value + 1;
+   }
 
-  /**
-   * A method that takes two numbers and does either addition or subtraction
-   *
-   * @param a The first uint64
-   * @param b The second uint64
-   * @param operation The operation to perform. Can be either 'sum' or 'difference'
-   *
-   * @returns The result of the operation
-   */
-  doMath(a: uint64, b: uint64, operation: string): uint64 {
-    let result: uint64;
+   getProduct(id: uint64): string {
+       // Verify product exists
+       assert(this.products(id).exists);
+       return this.products(id).value;
+   }
 
-    if (operation === 'sum') {
-      result = this.getSum(a, b);
-    } else if (operation === 'difference') {
-      result = this.getDifference(a, b);
-    } else throw Error('Invalid operation');
+   updateProduct(id: uint64, name: string, description: string): void {
+       // Verify product exists
+       assert(this.products(id).exists);
+       
+       // Update product info
+       const productInfo = name + "|" + description;
+       this.products(id).value = productInfo;
+   }
 
-    return result;
-  }
 
-  /**
-   * A demonstration method used in the AlgoKit fullstack template.
-   * Greets the user by name.
-   *
-   * @param name The name of the user to greet.
-   * @returns A greeting message to the user.
-   */
-  hello(name: string): string {
-    return 'Hello, ' + name;
-  }
+   getProductCount(): uint64 {
+       return this.productCount.value;
+   }
+
+   clearState(): void {
+       // No specific action needed for clear state
+       this.productCount.value = 0;
+   }
 }
