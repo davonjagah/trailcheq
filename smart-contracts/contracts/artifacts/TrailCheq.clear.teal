@@ -1,9 +1,1 @@
 #pragma version 10
-
-// contracts/TrailCheq.algo.ts:87
-// this.productCount.value = 0
-pushbytes 0x636f756e74 // "count"
-pushint 0
-app_global_put
-pushint 1
-return
