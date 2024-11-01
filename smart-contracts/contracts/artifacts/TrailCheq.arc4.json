@@ -7,7 +7,7 @@
       "args": [
         {
           "name": "id",
-          "type": "uint64"
+          "type": "string"
         },
         {
           "name": "name",
@@ -18,24 +18,36 @@
           "type": "string"
         },
         {
+          "name": "category",
+          "type": "string"
+        },
+        {
           "name": "imageURL",
           "type": "string"
-        }
-      ],
-      "returns": {
-        "type": "void"
-      }
-    },
-    {
-      "name": "getProduct",
-      "args": [
+        },
         {
-          "name": "id",
+          "name": "owner",
+          "type": "string"
+        },
+        {
+          "name": "created",
           "type": "uint64"
         }
       ],
       "returns": {
-        "type": "(string,uint64)"
+        "type": "((string,string,string,string,string,bool,uint64,uint64),uint64)"
+      }
+    },
+    {
+      "name": "verifyProduct",
+      "args": [
+        {
+          "name": "id",
+          "type": "string"
+        }
+      ],
+      "returns": {
+        "type": "((string,string,string,string,string,bool,uint64,uint64),uint64)"
       }
     },
     {
@@ -43,7 +55,7 @@
       "args": [
         {
           "name": "id",
-          "type": "uint64"
+          "type": "string"
         },
         {
           "name": "name",
@@ -52,6 +64,10 @@
         {
           "name": "description",
           "type": "string"
+        },
+        {
+          "name": "updated",
+          "type": "uint64"
         }
       ],
       "returns": {
@@ -59,10 +75,39 @@
       }
     },
     {
-      "name": "getProductCount",
-      "args": [],
+      "name": "deleteProduct",
+      "args": [
+        {
+          "name": "id",
+          "type": "string"
+        }
+      ],
       "returns": {
-        "type": "uint64"
+        "type": "void"
+      }
+    },
+    {
+      "name": "getProductById",
+      "args": [
+        {
+          "name": "productId",
+          "type": "string"
+        }
+      ],
+      "returns": {
+        "type": "(string,string,string,string,string,bool,uint64,uint64)"
+      }
+    },
+    {
+      "name": "getProductIdByIndex",
+      "args": [
+        {
+          "name": "index",
+          "type": "uint64"
+        }
+      ],
+      "returns": {
+        "type": "string"
       }
     },
     {
