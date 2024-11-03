@@ -8,7 +8,7 @@ import Home from './Home'
 import { getAlgodConfigFromViteEnvironment, getKmdConfigFromViteEnvironment } from './utils/network/getAlgoClientConfigs'
 
 let providersArray: ProvidersArray
-if (import.meta.env.VITE_ALGOD_NETWORK === '') {
+if (import.meta.env.VITE_ALGOD_NETWORK === 'gghh') {
   const kmdConfig = getKmdConfigFromViteEnvironment()
   providersArray = [
     {

@@ -35,7 +35,7 @@
         }
       ],
       "returns": {
-        "type": "((string,string,string,string,string,bool,uint64,uint64),uint64)"
+        "type": "(string,string,string,string,string,bool,uint64,uint64)"
       }
     },
     {

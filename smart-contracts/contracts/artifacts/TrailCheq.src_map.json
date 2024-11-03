@@ -1,14 +1,14 @@
 [
   {
     "teal": 1,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
       0
     ]
   },
   {
     "teal": 2,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
       1,
       2,
@@ -22,7 +22,7 @@
   },
   {
     "teal": 3,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
       9,
       10,
@@ -54,60 +54,60 @@
       36,
       37,
       38,
-      39,
-      40,
-      41,
-      42
+      39
     ]
   },
   {
     "teal": 15,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      43,
-      44
+      40,
+      41
     ]
   },
   {
     "teal": 16,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      45
+      42
     ]
   },
   {
     "teal": 17,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      46
+      43
     ]
   },
   {
     "teal": 18,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "source": "contracts/TrailCheq.algo.ts:14",
+    "pc": [
+      44
+    ]
+  },
+  {
+    "teal": 19,
+    "source": "contracts/TrailCheq.algo.ts:14",
+    "pc": [
+      45,
+      46
+    ]
+  },
+  {
+    "teal": 20,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
       47
     ]
   },
   {
-    "teal": 19,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 21,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
       48,
-      49
-    ]
-  },
-  {
-    "teal": 20,
-    "source": "contracts/TrailCheq.algo.ts:16",
-    "pc": [
-      50
-    ]
-  },
-  {
-    "teal": 21,
-    "source": "contracts/TrailCheq.algo.ts:16",
-    "pc": [
+      49,
+      50,
       51,
       52,
       53,
@@ -130,46 +130,52 @@
       70,
       71,
       72,
-      73,
-      74,
-      75,
-      76
+      73
     ]
   },
   {
     "teal": 25,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "source": "contracts/TrailCheq.algo.ts:14",
     "errorMessage": "The requested action is not implemented in this contract. Are you using the correct OnComplete? Did you set your app ID?",
     "pc": [
-      77
+      74
     ]
   },
   {
     "teal": 30,
-    "source": "contracts/TrailCheq.algo.ts:28",
+    "source": "contracts/TrailCheq.algo.ts:25",
     "pc": [
-      78
+      75
     ]
   },
   {
     "teal": 33,
-    "source": "contracts/TrailCheq.algo.ts:28",
+    "source": "contracts/TrailCheq.algo.ts:32",
     "pc": [
-      79,
-      80,
-      81
+      76,
+      77,
+      78
     ]
   },
   {
     "teal": 34,
-    "source": "contracts/TrailCheq.algo.ts:28",
+    "source": "contracts/TrailCheq.algo.ts:32",
     "pc": [
-      82
+      79
     ]
   },
   {
     "teal": 37,
-    "source": "contracts/TrailCheq.algo.ts:28",
+    "source": "contracts/TrailCheq.algo.ts:31",
+    "pc": [
+      80,
+      81,
+      82
+    ]
+  },
+  {
+    "teal": 38,
+    "source": "contracts/TrailCheq.algo.ts:31",
     "pc": [
       83,
       84,
@@ -177,8 +183,8 @@
     ]
   },
   {
-    "teal": 38,
-    "source": "contracts/TrailCheq.algo.ts:28",
+    "teal": 41,
+    "source": "contracts/TrailCheq.algo.ts:30",
     "pc": [
       86,
       87,
@@ -186,8 +192,8 @@
     ]
   },
   {
-    "teal": 41,
-    "source": "contracts/TrailCheq.algo.ts:28",
+    "teal": 42,
+    "source": "contracts/TrailCheq.algo.ts:30",
     "pc": [
       89,
       90,
@@ -195,8 +201,8 @@
     ]
   },
   {
-    "teal": 42,
-    "source": "contracts/TrailCheq.algo.ts:28",
+    "teal": 45,
+    "source": "contracts/TrailCheq.algo.ts:29",
     "pc": [
       92,
       93,
@@ -204,8 +210,8 @@
     ]
   },
   {
-    "teal": 45,
-    "source": "contracts/TrailCheq.algo.ts:28",
+    "teal": 46,
+    "source": "contracts/TrailCheq.algo.ts:29",
     "pc": [
       95,
       96,
@@ -213,7 +219,7 @@
     ]
   },
   {
-    "teal": 46,
+    "teal": 49,
     "source": "contracts/TrailCheq.algo.ts:28",
     "pc": [
       98,
@@ -222,7 +228,7 @@
     ]
   },
   {
-    "teal": 49,
+    "teal": 50,
     "source": "contracts/TrailCheq.algo.ts:28",
     "pc": [
       101,
@@ -231,8 +237,8 @@
     ]
   },
   {
-    "teal": 50,
-    "source": "contracts/TrailCheq.algo.ts:28",
+    "teal": 53,
+    "source": "contracts/TrailCheq.algo.ts:27",
     "pc": [
       104,
       105,
@@ -240,8 +246,8 @@
     ]
   },
   {
-    "teal": 53,
-    "source": "contracts/TrailCheq.algo.ts:28",
+    "teal": 54,
+    "source": "contracts/TrailCheq.algo.ts:27",
     "pc": [
       107,
       108,
@@ -249,8 +255,8 @@
     ]
   },
   {
-    "teal": 54,
-    "source": "contracts/TrailCheq.algo.ts:28",
+    "teal": 57,
+    "source": "contracts/TrailCheq.algo.ts:26",
     "pc": [
       110,
       111,
@@ -258,8 +264,8 @@
     ]
   },
   {
-    "teal": 57,
-    "source": "contracts/TrailCheq.algo.ts:28",
+    "teal": 58,
+    "source": "contracts/TrailCheq.algo.ts:26",
     "pc": [
       113,
       114,
@@ -267,8 +273,8 @@
     ]
   },
   {
-    "teal": 58,
-    "source": "contracts/TrailCheq.algo.ts:28",
+    "teal": 61,
+    "source": "contracts/TrailCheq.algo.ts:25",
     "pc": [
       116,
       117,
@@ -276,263 +282,258 @@
     ]
   },
   {
-    "teal": 61,
-    "source": "contracts/TrailCheq.algo.ts:28",
+    "teal": 62,
+    "source": "contracts/TrailCheq.algo.ts:25",
     "pc": [
-      119,
-      120,
+      119
+    ]
+  },
+  {
+    "teal": 63,
+    "source": "contracts/TrailCheq.algo.ts:25",
+    "pc": [
+      120
+    ]
+  },
+  {
+    "teal": 64,
+    "source": "contracts/TrailCheq.algo.ts:25",
+    "pc": [
       121
     ]
   },
   {
-    "teal": 62,
-    "source": "contracts/TrailCheq.algo.ts:28",
+    "teal": 65,
+    "source": "contracts/TrailCheq.algo.ts:25",
     "pc": [
       122
     ]
   },
   {
-    "teal": 63,
-    "source": "contracts/TrailCheq.algo.ts:28",
+    "teal": 69,
+    "source": "contracts/TrailCheq.algo.ts:25",
     "pc": [
-      123
-    ]
-  },
-  {
-    "teal": 64,
-    "source": "contracts/TrailCheq.algo.ts:28",
-    "pc": [
-      124
-    ]
-  },
-  {
-    "teal": 65,
-    "source": "contracts/TrailCheq.algo.ts:28",
-    "pc": [
+      123,
+      124,
       125
     ]
   },
   {
-    "teal": 69,
-    "source": "contracts/TrailCheq.algo.ts:28",
+    "teal": 72,
+    "source": "contracts/TrailCheq.algo.ts:25",
     "pc": [
-      126,
+      126
+    ]
+  },
+  {
+    "teal": 73,
+    "source": "contracts/TrailCheq.algo.ts:25",
+    "pc": [
       127,
       128
     ]
   },
   {
-    "teal": 72,
-    "source": "contracts/TrailCheq.algo.ts:28",
+    "teal": 77,
+    "source": "contracts/TrailCheq.algo.ts:37",
     "pc": [
       129
     ]
   },
   {
-    "teal": 73,
-    "source": "contracts/TrailCheq.algo.ts:28",
+    "teal": 78,
+    "source": "contracts/TrailCheq.algo.ts:37",
     "pc": [
-      130
-    ]
-  },
-  {
-    "teal": 77,
-    "source": "contracts/TrailCheq.algo.ts:32",
-    "pc": [
+      130,
       131
     ]
   },
   {
-    "teal": 78,
-    "source": "contracts/TrailCheq.algo.ts:32",
+    "teal": 79,
+    "source": "contracts/TrailCheq.algo.ts:37",
     "pc": [
-      132,
+      132
+    ]
+  },
+  {
+    "teal": 80,
+    "source": "contracts/TrailCheq.algo.ts:37",
+    "pc": [
       133
     ]
   },
   {
-    "teal": 79,
-    "source": "contracts/TrailCheq.algo.ts:32",
+    "teal": 81,
+    "source": "contracts/TrailCheq.algo.ts:37",
     "pc": [
       134
     ]
   },
   {
-    "teal": 80,
-    "source": "contracts/TrailCheq.algo.ts:32",
-    "pc": [
-      135
-    ]
-  },
-  {
-    "teal": 81,
-    "source": "contracts/TrailCheq.algo.ts:32",
-    "pc": [
-      136
-    ]
-  },
-  {
     "teal": 82,
-    "source": "contracts/TrailCheq.algo.ts:32",
+    "source": "contracts/TrailCheq.algo.ts:37",
     "pc": [
-      137,
-      138,
-      139
+      135,
+      136,
+      137
     ]
   },
   {
     "teal": 83,
-    "source": "contracts/TrailCheq.algo.ts:32",
+    "source": "contracts/TrailCheq.algo.ts:37",
+    "pc": [
+      138
+    ]
+  },
+  {
+    "teal": 84,
+    "source": "contracts/TrailCheq.algo.ts:37",
+    "pc": [
+      139
+    ]
+  },
+  {
+    "teal": 85,
+    "source": "contracts/TrailCheq.algo.ts:37",
     "pc": [
       140
     ]
   },
   {
-    "teal": 84,
-    "source": "contracts/TrailCheq.algo.ts:32",
+    "teal": 86,
+    "source": "contracts/TrailCheq.algo.ts:37",
     "pc": [
       141
     ]
   },
   {
-    "teal": 85,
-    "source": "contracts/TrailCheq.algo.ts:32",
+    "teal": 87,
+    "source": "contracts/TrailCheq.algo.ts:37",
     "pc": [
       142
     ]
   },
   {
-    "teal": 86,
-    "source": "contracts/TrailCheq.algo.ts:32",
+    "teal": 88,
+    "source": "contracts/TrailCheq.algo.ts:37",
     "pc": [
       143
     ]
   },
   {
-    "teal": 87,
-    "source": "contracts/TrailCheq.algo.ts:32",
+    "teal": 89,
+    "source": "contracts/TrailCheq.algo.ts:37",
     "pc": [
       144
     ]
   },
   {
-    "teal": 88,
-    "source": "contracts/TrailCheq.algo.ts:32",
+    "teal": 92,
+    "source": "contracts/TrailCheq.algo.ts:37",
+    "errorMessage": "Product already exists",
     "pc": [
       145
     ]
   },
   {
-    "teal": 89,
-    "source": "contracts/TrailCheq.algo.ts:32",
+    "teal": 102,
+    "source": "contracts/TrailCheq.algo.ts:40",
     "pc": [
       146
     ]
   },
   {
-    "teal": 90,
-    "source": "contracts/TrailCheq.algo.ts:32",
+    "teal": 103,
+    "source": "contracts/TrailCheq.algo.ts:40",
     "pc": [
-      147
-    ]
-  },
-  {
-    "teal": 100,
-    "source": "contracts/TrailCheq.algo.ts:35",
-    "pc": [
+      147,
       148
     ]
   },
   {
-    "teal": 101,
-    "source": "contracts/TrailCheq.algo.ts:35",
+    "teal": 104,
+    "source": "contracts/TrailCheq.algo.ts:40",
     "pc": [
       149,
       150
     ]
   },
   {
-    "teal": 102,
-    "source": "contracts/TrailCheq.algo.ts:35",
+    "teal": 108,
+    "source": "contracts/TrailCheq.algo.ts:41",
     "pc": [
-      151,
-      152
+      151
     ]
   },
   {
-    "teal": 106,
-    "source": "contracts/TrailCheq.algo.ts:36",
+    "teal": 109,
+    "source": "contracts/TrailCheq.algo.ts:41",
     "pc": [
+      152,
       153
     ]
   },
   {
-    "teal": 107,
-    "source": "contracts/TrailCheq.algo.ts:36",
+    "teal": 113,
+    "source": "contracts/TrailCheq.algo.ts:42",
     "pc": [
       154,
       155
     ]
   },
   {
-    "teal": 111,
-    "source": "contracts/TrailCheq.algo.ts:37",
+    "teal": 114,
+    "source": "contracts/TrailCheq.algo.ts:42",
     "pc": [
       156,
       157
     ]
   },
   {
-    "teal": 112,
-    "source": "contracts/TrailCheq.algo.ts:37",
+    "teal": 118,
+    "source": "contracts/TrailCheq.algo.ts:43",
     "pc": [
       158,
       159
     ]
   },
   {
-    "teal": 116,
-    "source": "contracts/TrailCheq.algo.ts:38",
+    "teal": 119,
+    "source": "contracts/TrailCheq.algo.ts:43",
     "pc": [
       160,
-      161
+      161,
+      162
     ]
   },
   {
-    "teal": 117,
-    "source": "contracts/TrailCheq.algo.ts:38",
+    "teal": 120,
+    "source": "contracts/TrailCheq.algo.ts:43",
     "pc": [
-      162,
-      163
+      163,
+      164
     ]
   },
   {
-    "teal": 121,
-    "source": "contracts/TrailCheq.algo.ts:39",
+    "teal": 124,
+    "source": "contracts/TrailCheq.algo.ts:44",
     "pc": [
-      164,
-      165
+      165,
+      166
     ]
   },
   {
-    "teal": 122,
-    "source": "contracts/TrailCheq.algo.ts:39",
+    "teal": 125,
+    "source": "contracts/TrailCheq.algo.ts:44",
     "pc": [
-      166,
-      167
-    ]
-  },
-  {
-    "teal": 126,
-    "source": "contracts/TrailCheq.algo.ts:40",
-    "pc": [
+      167,
       168,
       169
     ]
   },
   {
-    "teal": 127,
-    "source": "contracts/TrailCheq.algo.ts:40",
+    "teal": 126,
+    "source": "contracts/TrailCheq.algo.ts:44",
     "pc": [
       170,
       171
@@ -540,1335 +541,1323 @@
   },
   {
     "teal": 130,
-    "source": "contracts/TrailCheq.algo.ts:35",
+    "source": "contracts/TrailCheq.algo.ts:45",
     "pc": [
-      172
+      172,
+      173
     ]
   },
   {
     "teal": 131,
-    "source": "contracts/TrailCheq.algo.ts:35",
+    "source": "contracts/TrailCheq.algo.ts:45",
     "pc": [
-      173,
-      174
-    ]
-  },
-  {
-    "teal": 134,
-    "source": "contracts/TrailCheq.algo.ts:35",
-    "pc": [
+      174,
       175
     ]
   },
   {
-    "teal": 135,
-    "source": "contracts/TrailCheq.algo.ts:35",
+    "teal": 134,
+    "source": "contracts/TrailCheq.algo.ts:40",
     "pc": [
-      176,
-      177
+      176
     ]
   },
   {
-    "teal": 136,
-    "source": "contracts/TrailCheq.algo.ts:35",
+    "teal": 135,
+    "source": "contracts/TrailCheq.algo.ts:40",
     "pc": [
-      178,
+      177,
+      178
+    ]
+  },
+  {
+    "teal": 138,
+    "source": "contracts/TrailCheq.algo.ts:40",
+    "pc": [
       179
     ]
   },
   {
-    "teal": 149,
-    "source": "contracts/TrailCheq.algo.ts:43",
+    "teal": 139,
+    "source": "contracts/TrailCheq.algo.ts:40",
     "pc": [
-      180
-    ]
-  },
-  {
-    "teal": 150,
-    "source": "contracts/TrailCheq.algo.ts:43",
-    "pc": [
+      180,
       181
     ]
   },
   {
-    "teal": 151,
-    "source": "contracts/TrailCheq.algo.ts:43",
+    "teal": 140,
+    "source": "contracts/TrailCheq.algo.ts:40",
     "pc": [
       182,
-      183,
-      184,
-      185
-    ]
-  },
-  {
-    "teal": 152,
-    "source": "contracts/TrailCheq.algo.ts:44",
-    "pc": [
-      186,
-      187
+      183
     ]
   },
   {
     "teal": 153,
-    "source": "contracts/TrailCheq.algo.ts:44",
+    "source": "contracts/TrailCheq.algo.ts:49",
     "pc": [
-      188
+      184
     ]
   },
   {
     "teal": 154,
-    "source": "contracts/TrailCheq.algo.ts:44",
+    "source": "contracts/TrailCheq.algo.ts:49",
     "pc": [
-      189
+      185
     ]
   },
   {
     "teal": 155,
-    "source": "contracts/TrailCheq.algo.ts:44",
+    "source": "contracts/TrailCheq.algo.ts:49",
     "pc": [
-      190
+      186,
+      187,
+      188,
+      189
     ]
   },
   {
     "teal": 156,
-    "source": "contracts/TrailCheq.algo.ts:44",
+    "source": "contracts/TrailCheq.algo.ts:50",
     "pc": [
-      191,
-      192,
-      193
+      190,
+      191
     ]
   },
   {
     "teal": 157,
-    "source": "contracts/TrailCheq.algo.ts:44",
+    "source": "contracts/TrailCheq.algo.ts:50",
+    "pc": [
+      192
+    ]
+  },
+  {
+    "teal": 158,
+    "source": "contracts/TrailCheq.algo.ts:50",
+    "pc": [
+      193
+    ]
+  },
+  {
+    "teal": 159,
+    "source": "contracts/TrailCheq.algo.ts:50",
     "pc": [
       194
     ]
   },
   {
-    "teal": 158,
-    "source": "contracts/TrailCheq.algo.ts:44",
-    "pc": [
-      195
-    ]
-  },
-  {
-    "teal": 159,
-    "source": "contracts/TrailCheq.algo.ts:44",
-    "pc": [
-      196,
-      197,
-      198
-    ]
-  },
-  {
     "teal": 160,
-    "source": "contracts/TrailCheq.algo.ts:45",
+    "source": "contracts/TrailCheq.algo.ts:50",
     "pc": [
-      199,
-      200
+      195,
+      196,
+      197
     ]
   },
   {
     "teal": 161,
-    "source": "contracts/TrailCheq.algo.ts:45",
+    "source": "contracts/TrailCheq.algo.ts:50",
     "pc": [
-      201
+      198
     ]
   },
   {
     "teal": 162,
-    "source": "contracts/TrailCheq.algo.ts:45",
+    "source": "contracts/TrailCheq.algo.ts:50",
     "pc": [
-      202
+      199
     ]
   },
   {
     "teal": 163,
-    "source": "contracts/TrailCheq.algo.ts:45",
+    "source": "contracts/TrailCheq.algo.ts:50",
     "pc": [
-      203
+      200,
+      201,
+      202
     ]
   },
   {
     "teal": 164,
-    "source": "contracts/TrailCheq.algo.ts:45",
+    "source": "contracts/TrailCheq.algo.ts:51",
     "pc": [
-      204,
-      205,
-      206
+      203,
+      204
     ]
   },
   {
     "teal": 165,
-    "source": "contracts/TrailCheq.algo.ts:45",
+    "source": "contracts/TrailCheq.algo.ts:51",
+    "pc": [
+      205
+    ]
+  },
+  {
+    "teal": 166,
+    "source": "contracts/TrailCheq.algo.ts:51",
+    "pc": [
+      206
+    ]
+  },
+  {
+    "teal": 167,
+    "source": "contracts/TrailCheq.algo.ts:51",
     "pc": [
       207
     ]
   },
   {
-    "teal": 166,
-    "source": "contracts/TrailCheq.algo.ts:45",
-    "pc": [
-      208
-    ]
-  },
-  {
-    "teal": 167,
-    "source": "contracts/TrailCheq.algo.ts:45",
-    "pc": [
-      209,
-      210,
-      211
-    ]
-  },
-  {
     "teal": 168,
-    "source": "contracts/TrailCheq.algo.ts:47",
+    "source": "contracts/TrailCheq.algo.ts:51",
     "pc": [
-      212,
-      213
+      208,
+      209,
+      210
     ]
   },
   {
     "teal": 169,
-    "source": "contracts/TrailCheq.algo.ts:47",
+    "source": "contracts/TrailCheq.algo.ts:51",
     "pc": [
-      214
+      211
     ]
   },
   {
     "teal": 170,
-    "source": "contracts/TrailCheq.algo.ts:47",
+    "source": "contracts/TrailCheq.algo.ts:51",
     "pc": [
-      215
+      212
     ]
   },
   {
     "teal": 171,
-    "source": "contracts/TrailCheq.algo.ts:47",
+    "source": "contracts/TrailCheq.algo.ts:51",
     "pc": [
-      216
+      213,
+      214,
+      215
     ]
   },
   {
     "teal": 172,
-    "source": "contracts/TrailCheq.algo.ts:47",
+    "source": "contracts/TrailCheq.algo.ts:53",
     "pc": [
-      217,
-      218,
-      219
+      216,
+      217
     ]
   },
   {
     "teal": 173,
-    "source": "contracts/TrailCheq.algo.ts:47",
+    "source": "contracts/TrailCheq.algo.ts:53",
+    "pc": [
+      218
+    ]
+  },
+  {
+    "teal": 174,
+    "source": "contracts/TrailCheq.algo.ts:53",
+    "pc": [
+      219
+    ]
+  },
+  {
+    "teal": 175,
+    "source": "contracts/TrailCheq.algo.ts:53",
     "pc": [
       220
     ]
   },
   {
-    "teal": 174,
-    "source": "contracts/TrailCheq.algo.ts:47",
-    "pc": [
-      221
-    ]
-  },
-  {
-    "teal": 175,
-    "source": "contracts/TrailCheq.algo.ts:47",
-    "pc": [
-      222,
-      223,
-      224
-    ]
-  },
-  {
     "teal": 176,
-    "source": "contracts/TrailCheq.algo.ts:46",
+    "source": "contracts/TrailCheq.algo.ts:53",
     "pc": [
-      225,
-      226
+      221,
+      222,
+      223
     ]
   },
   {
     "teal": 177,
-    "source": "contracts/TrailCheq.algo.ts:46",
+    "source": "contracts/TrailCheq.algo.ts:53",
     "pc": [
-      227
+      224
     ]
   },
   {
     "teal": 178,
-    "source": "contracts/TrailCheq.algo.ts:46",
+    "source": "contracts/TrailCheq.algo.ts:53",
     "pc": [
-      228
+      225
     ]
   },
   {
     "teal": 179,
-    "source": "contracts/TrailCheq.algo.ts:46",
+    "source": "contracts/TrailCheq.algo.ts:53",
     "pc": [
-      229
+      226,
+      227,
+      228
     ]
   },
   {
     "teal": 180,
-    "source": "contracts/TrailCheq.algo.ts:46",
+    "source": "contracts/TrailCheq.algo.ts:52",
     "pc": [
-      230,
-      231,
-      232
+      229,
+      230
     ]
   },
   {
     "teal": 181,
-    "source": "contracts/TrailCheq.algo.ts:46",
+    "source": "contracts/TrailCheq.algo.ts:52",
+    "pc": [
+      231
+    ]
+  },
+  {
+    "teal": 182,
+    "source": "contracts/TrailCheq.algo.ts:52",
+    "pc": [
+      232
+    ]
+  },
+  {
+    "teal": 183,
+    "source": "contracts/TrailCheq.algo.ts:52",
     "pc": [
       233
     ]
   },
   {
-    "teal": 182,
-    "source": "contracts/TrailCheq.algo.ts:46",
-    "pc": [
-      234
-    ]
-  },
-  {
-    "teal": 183,
-    "source": "contracts/TrailCheq.algo.ts:46",
-    "pc": [
-      235,
-      236,
-      237
-    ]
-  },
-  {
     "teal": 184,
-    "source": "contracts/TrailCheq.algo.ts:48",
+    "source": "contracts/TrailCheq.algo.ts:52",
     "pc": [
-      238,
-      239
+      234,
+      235,
+      236
     ]
   },
   {
     "teal": 185,
-    "source": "contracts/TrailCheq.algo.ts:48",
+    "source": "contracts/TrailCheq.algo.ts:52",
     "pc": [
-      240
+      237
     ]
   },
   {
     "teal": 186,
-    "source": "contracts/TrailCheq.algo.ts:48",
+    "source": "contracts/TrailCheq.algo.ts:52",
     "pc": [
-      241
+      238
     ]
   },
   {
     "teal": 187,
-    "source": "contracts/TrailCheq.algo.ts:48",
+    "source": "contracts/TrailCheq.algo.ts:52",
     "pc": [
-      242
+      239,
+      240,
+      241
     ]
   },
   {
     "teal": 188,
-    "source": "contracts/TrailCheq.algo.ts:48",
+    "source": "contracts/TrailCheq.algo.ts:54",
     "pc": [
-      243,
-      244,
-      245
+      242,
+      243
     ]
   },
   {
     "teal": 189,
-    "source": "contracts/TrailCheq.algo.ts:48",
+    "source": "contracts/TrailCheq.algo.ts:54",
+    "pc": [
+      244
+    ]
+  },
+  {
+    "teal": 190,
+    "source": "contracts/TrailCheq.algo.ts:54",
+    "pc": [
+      245
+    ]
+  },
+  {
+    "teal": 191,
+    "source": "contracts/TrailCheq.algo.ts:54",
     "pc": [
       246
     ]
   },
   {
-    "teal": 190,
-    "source": "contracts/TrailCheq.algo.ts:48",
-    "pc": [
-      247
-    ]
-  },
-  {
-    "teal": 191,
-    "source": "contracts/TrailCheq.algo.ts:48",
-    "pc": [
-      248,
-      249,
-      250
-    ]
-  },
-  {
     "teal": 192,
-    "source": "contracts/TrailCheq.algo.ts:49",
+    "source": "contracts/TrailCheq.algo.ts:54",
     "pc": [
-      251,
-      252,
-      253
+      247,
+      248,
+      249
     ]
   },
   {
     "teal": 193,
-    "source": "contracts/TrailCheq.algo.ts:49",
+    "source": "contracts/TrailCheq.algo.ts:54",
     "pc": [
-      254
+      250
     ]
   },
   {
     "teal": 194,
-    "source": "contracts/TrailCheq.algo.ts:49",
+    "source": "contracts/TrailCheq.algo.ts:54",
     "pc": [
-      255
+      251
     ]
   },
   {
     "teal": 195,
-    "source": "contracts/TrailCheq.algo.ts:49",
+    "source": "contracts/TrailCheq.algo.ts:54",
     "pc": [
-      256
+      252,
+      253,
+      254
     ]
   },
   {
     "teal": 196,
-    "source": "contracts/TrailCheq.algo.ts:50",
+    "source": "contracts/TrailCheq.algo.ts:55",
     "pc": [
-      257,
-      258,
-      259
+      255,
+      256,
+      257
     ]
   },
   {
     "teal": 197,
-    "source": "contracts/TrailCheq.algo.ts:50",
+    "source": "contracts/TrailCheq.algo.ts:55",
     "pc": [
-      260,
-      261
+      258
     ]
   },
   {
     "teal": 198,
-    "source": "contracts/TrailCheq.algo.ts:50",
+    "source": "contracts/TrailCheq.algo.ts:55",
     "pc": [
-      262
+      259
     ]
   },
   {
     "teal": 199,
-    "source": "contracts/TrailCheq.algo.ts:50",
+    "source": "contracts/TrailCheq.algo.ts:55",
     "pc": [
-      263,
+      260
+    ]
+  },
+  {
+    "teal": 200,
+    "source": "contracts/TrailCheq.algo.ts:56",
+    "pc": [
+      261,
+      262,
+      263
+    ]
+  },
+  {
+    "teal": 201,
+    "source": "contracts/TrailCheq.algo.ts:56",
+    "pc": [
       264,
       265
     ]
   },
   {
-    "teal": 200,
-    "source": "contracts/TrailCheq.algo.ts:51",
+    "teal": 202,
+    "source": "contracts/TrailCheq.algo.ts:56",
     "pc": [
-      266,
+      266
+    ]
+  },
+  {
+    "teal": 203,
+    "source": "contracts/TrailCheq.algo.ts:56",
+    "pc": [
       267,
       268,
-      269,
+      269
+    ]
+  },
+  {
+    "teal": 204,
+    "source": "contracts/TrailCheq.algo.ts:57",
+    "pc": [
       270,
       271,
       272,
       273,
       274,
-      275
-    ]
-  },
-  {
-    "teal": 201,
-    "source": "contracts/TrailCheq.algo.ts:51",
-    "pc": [
+      275,
       276,
       277,
-      278
-    ]
-  },
-  {
-    "teal": 202,
-    "source": "contracts/TrailCheq.algo.ts:43",
-    "pc": [
+      278,
       279
     ]
   },
   {
-    "teal": 203,
-    "source": "contracts/TrailCheq.algo.ts:43",
+    "teal": 205,
+    "source": "contracts/TrailCheq.algo.ts:57",
     "pc": [
-      280
-    ]
-  },
-  {
-    "teal": 204,
-    "source": "contracts/TrailCheq.algo.ts:43",
-    "pc": [
+      280,
       281,
       282
     ]
   },
   {
-    "teal": 208,
-    "source": "contracts/TrailCheq.algo.ts:53",
+    "teal": 206,
+    "source": "contracts/TrailCheq.algo.ts:49",
     "pc": [
       283
     ]
   },
   {
-    "teal": 209,
-    "source": "contracts/TrailCheq.algo.ts:53",
+    "teal": 207,
+    "source": "contracts/TrailCheq.algo.ts:49",
     "pc": [
-      284,
-      285
+      284
     ]
   },
   {
-    "teal": 210,
-    "source": "contracts/TrailCheq.algo.ts:53",
+    "teal": 208,
+    "source": "contracts/TrailCheq.algo.ts:49",
     "pc": [
+      285,
       286
     ]
   },
   {
-    "teal": 211,
-    "source": "contracts/TrailCheq.algo.ts:53",
+    "teal": 212,
+    "source": "contracts/TrailCheq.algo.ts:61",
     "pc": [
       287
     ]
   },
   {
-    "teal": 212,
-    "source": "contracts/TrailCheq.algo.ts:53",
-    "pc": [
-      288
-    ]
-  },
-  {
     "teal": 213,
-    "source": "contracts/TrailCheq.algo.ts:53",
+    "source": "contracts/TrailCheq.algo.ts:61",
     "pc": [
-      289,
-      290,
-      291
+      288,
+      289
     ]
   },
   {
     "teal": 214,
-    "source": "contracts/TrailCheq.algo.ts:53",
+    "source": "contracts/TrailCheq.algo.ts:61",
+    "pc": [
+      290
+    ]
+  },
+  {
+    "teal": 215,
+    "source": "contracts/TrailCheq.algo.ts:61",
+    "pc": [
+      291
+    ]
+  },
+  {
+    "teal": 216,
+    "source": "contracts/TrailCheq.algo.ts:61",
     "pc": [
       292
     ]
   },
   {
-    "teal": 215,
-    "source": "contracts/TrailCheq.algo.ts:53",
-    "pc": [
-      293
-    ]
-  },
-  {
-    "teal": 216,
-    "source": "contracts/TrailCheq.algo.ts:53",
-    "pc": [
-      294
-    ]
-  },
-  {
     "teal": 217,
-    "source": "contracts/TrailCheq.algo.ts:53",
+    "source": "contracts/TrailCheq.algo.ts:61",
     "pc": [
+      293,
+      294,
       295
     ]
   },
   {
     "teal": 218,
-    "source": "contracts/TrailCheq.algo.ts:53",
+    "source": "contracts/TrailCheq.algo.ts:61",
     "pc": [
       296
     ]
   },
   {
     "teal": 219,
-    "source": "contracts/TrailCheq.algo.ts:53",
+    "source": "contracts/TrailCheq.algo.ts:61",
     "pc": [
       297
     ]
   },
   {
     "teal": 220,
-    "source": "contracts/TrailCheq.algo.ts:53",
+    "source": "contracts/TrailCheq.algo.ts:61",
     "pc": [
-      298,
-      299
+      298
     ]
   },
   {
     "teal": 221,
-    "source": "contracts/TrailCheq.algo.ts:53",
+    "source": "contracts/TrailCheq.algo.ts:61",
+    "pc": [
+      299
+    ]
+  },
+  {
+    "teal": 222,
+    "source": "contracts/TrailCheq.algo.ts:61",
     "pc": [
       300
     ]
   },
   {
-    "teal": 225,
-    "source": "contracts/TrailCheq.algo.ts:54",
+    "teal": 223,
+    "source": "contracts/TrailCheq.algo.ts:61",
     "pc": [
-      301,
-      302
+      301
     ]
   },
   {
-    "teal": 226,
-    "source": "contracts/TrailCheq.algo.ts:54",
+    "teal": 224,
+    "source": "contracts/TrailCheq.algo.ts:61",
     "pc": [
-      303,
+      302,
+      303
+    ]
+  },
+  {
+    "teal": 225,
+    "source": "contracts/TrailCheq.algo.ts:61",
+    "pc": [
       304
     ]
   },
   {
-    "teal": 227,
-    "source": "contracts/TrailCheq.algo.ts:54",
+    "teal": 229,
+    "source": "contracts/TrailCheq.algo.ts:62",
     "pc": [
-      305
-    ]
-  },
-  {
-    "teal": 228,
-    "source": "contracts/TrailCheq.algo.ts:54",
-    "pc": [
+      305,
       306
     ]
   },
   {
-    "teal": 229,
-    "source": "contracts/TrailCheq.algo.ts:54",
-    "pc": [
-      307
-    ]
-  },
-  {
     "teal": 230,
-    "source": "contracts/TrailCheq.algo.ts:54",
+    "source": "contracts/TrailCheq.algo.ts:62",
     "pc": [
-      308,
-      309,
-      310
+      307,
+      308
     ]
   },
   {
     "teal": 231,
-    "source": "contracts/TrailCheq.algo.ts:54",
+    "source": "contracts/TrailCheq.algo.ts:62",
+    "pc": [
+      309
+    ]
+  },
+  {
+    "teal": 232,
+    "source": "contracts/TrailCheq.algo.ts:62",
+    "pc": [
+      310
+    ]
+  },
+  {
+    "teal": 233,
+    "source": "contracts/TrailCheq.algo.ts:62",
     "pc": [
       311
     ]
   },
   {
-    "teal": 232,
-    "source": "contracts/TrailCheq.algo.ts:54",
-    "pc": [
-      312
-    ]
-  },
-  {
-    "teal": 233,
-    "source": "contracts/TrailCheq.algo.ts:54",
-    "pc": [
-      313
-    ]
-  },
-  {
     "teal": 234,
-    "source": "contracts/TrailCheq.algo.ts:54",
+    "source": "contracts/TrailCheq.algo.ts:62",
     "pc": [
-      314,
-      315
+      312,
+      313,
+      314
     ]
   },
   {
     "teal": 235,
-    "source": "contracts/TrailCheq.algo.ts:54",
+    "source": "contracts/TrailCheq.algo.ts:62",
+    "pc": [
+      315
+    ]
+  },
+  {
+    "teal": 236,
+    "source": "contracts/TrailCheq.algo.ts:62",
     "pc": [
       316
     ]
   },
   {
-    "teal": 236,
-    "source": "contracts/TrailCheq.algo.ts:54",
+    "teal": 237,
+    "source": "contracts/TrailCheq.algo.ts:62",
     "pc": [
       317
     ]
   },
   {
-    "teal": 240,
-    "source": "contracts/TrailCheq.algo.ts:56",
+    "teal": 238,
+    "source": "contracts/TrailCheq.algo.ts:62",
     "pc": [
       318,
       319
     ]
   },
   {
-    "teal": 241,
-    "source": "contracts/TrailCheq.algo.ts:56",
+    "teal": 239,
+    "source": "contracts/TrailCheq.algo.ts:62",
     "pc": [
       320
     ]
   },
   {
-    "teal": 242,
-    "source": "contracts/TrailCheq.algo.ts:56",
+    "teal": 240,
+    "source": "contracts/TrailCheq.algo.ts:62",
     "pc": [
       321
     ]
   },
   {
-    "teal": 243,
-    "source": "contracts/TrailCheq.algo.ts:56",
+    "teal": 244,
+    "source": "contracts/TrailCheq.algo.ts:65",
     "pc": [
       322
     ]
   },
   {
-    "teal": 244,
-    "source": "contracts/TrailCheq.algo.ts:56",
+    "teal": 245,
+    "source": "contracts/TrailCheq.algo.ts:65",
     "pc": [
       323
     ]
   },
   {
-    "teal": 245,
-    "source": "contracts/TrailCheq.algo.ts:56",
-    "pc": [
-      324
-    ]
-  },
-  {
     "teal": 246,
-    "source": "contracts/TrailCheq.algo.ts:56",
+    "source": "contracts/TrailCheq.algo.ts:65",
     "pc": [
+      324,
       325
     ]
   },
   {
-    "teal": 247,
-    "source": "contracts/TrailCheq.algo.ts:56",
+    "teal": 250,
+    "source": "contracts/TrailCheq.algo.ts:66",
     "pc": [
-      326
+      326,
+      327
     ]
   },
   {
-    "teal": 248,
-    "source": "contracts/TrailCheq.algo.ts:56",
+    "teal": 251,
+    "source": "contracts/TrailCheq.algo.ts:66",
     "pc": [
-      327,
-      328
-    ]
-  },
-  {
-    "teal": 249,
-    "source": "contracts/TrailCheq.algo.ts:56",
-    "pc": [
+      328,
       329
     ]
   },
   {
-    "teal": 250,
-    "source": "contracts/TrailCheq.algo.ts:56",
+    "teal": 252,
+    "source": "contracts/TrailCheq.algo.ts:66",
     "pc": [
       330
     ]
   },
   {
-    "teal": 251,
-    "source": "contracts/TrailCheq.algo.ts:56",
+    "teal": 253,
+    "source": "contracts/TrailCheq.algo.ts:66",
     "pc": [
       331
     ]
   },
   {
-    "teal": 252,
-    "source": "contracts/TrailCheq.algo.ts:56",
-    "pc": [
-      332,
-      333,
-      334
-    ]
-  },
-  {
-    "teal": 253,
-    "source": "contracts/TrailCheq.algo.ts:56",
-    "pc": [
-      335
-    ]
-  },
-  {
     "teal": 254,
-    "source": "contracts/TrailCheq.algo.ts:56",
+    "source": "contracts/TrailCheq.algo.ts:66",
     "pc": [
-      336
+      332
     ]
   },
   {
     "teal": 255,
-    "source": "contracts/TrailCheq.algo.ts:56",
+    "source": "contracts/TrailCheq.algo.ts:66",
+    "pc": [
+      333
+    ]
+  },
+  {
+    "teal": 256,
+    "source": "contracts/TrailCheq.algo.ts:66",
+    "pc": [
+      334
+    ]
+  },
+  {
+    "teal": 257,
+    "source": "contracts/TrailCheq.algo.ts:66",
+    "pc": [
+      335,
+      336
+    ]
+  },
+  {
+    "teal": 258,
+    "source": "contracts/TrailCheq.algo.ts:66",
     "pc": [
       337
     ]
   },
   {
     "teal": 259,
-    "source": "contracts/TrailCheq.algo.ts:59",
+    "source": "contracts/TrailCheq.algo.ts:66",
     "pc": [
       338
     ]
   },
   {
     "teal": 260,
-    "source": "contracts/TrailCheq.algo.ts:59",
+    "source": "contracts/TrailCheq.algo.ts:66",
     "pc": [
       339
     ]
   },
   {
     "teal": 261,
-    "source": "contracts/TrailCheq.algo.ts:59",
+    "source": "contracts/TrailCheq.algo.ts:66",
     "pc": [
-      340
-    ]
-  },
-  {
-    "teal": 262,
-    "source": "contracts/TrailCheq.algo.ts:59",
-    "pc": [
-      341
-    ]
-  },
-  {
-    "teal": 263,
-    "source": "contracts/TrailCheq.algo.ts:59",
-    "pc": [
+      340,
+      341,
       342
     ]
   },
   {
-    "teal": 264,
-    "source": "contracts/TrailCheq.algo.ts:59",
+    "teal": 262,
+    "source": "contracts/TrailCheq.algo.ts:66",
     "pc": [
       343
     ]
   },
   {
-    "teal": 265,
-    "source": "contracts/TrailCheq.algo.ts:59",
+    "teal": 263,
+    "source": "contracts/TrailCheq.algo.ts:66",
     "pc": [
       344
     ]
   },
   {
-    "teal": 272,
-    "source": "contracts/TrailCheq.algo.ts:61",
+    "teal": 264,
+    "source": "contracts/TrailCheq.algo.ts:66",
     "pc": [
       345
     ]
   },
   {
-    "teal": 273,
-    "source": "contracts/TrailCheq.algo.ts:61",
+    "teal": 268,
+    "source": "contracts/TrailCheq.algo.ts:69",
     "pc": [
       346
     ]
   },
   {
-    "teal": 274,
-    "source": "contracts/TrailCheq.algo.ts:61",
+    "teal": 269,
+    "source": "contracts/TrailCheq.algo.ts:69",
     "pc": [
       347,
       348
     ]
   },
   {
-    "teal": 275,
-    "source": "contracts/TrailCheq.algo.ts:62",
+    "teal": 270,
+    "source": "contracts/TrailCheq.algo.ts:69",
     "pc": [
-      349,
+      349
+    ]
+  },
+  {
+    "teal": 271,
+    "source": "contracts/TrailCheq.algo.ts:69",
+    "pc": [
       350
     ]
   },
   {
-    "teal": 276,
-    "source": "contracts/TrailCheq.algo.ts:62",
+    "teal": 272,
+    "source": "contracts/TrailCheq.algo.ts:69",
     "pc": [
-      351,
+      351
+    ]
+  },
+  {
+    "teal": 276,
+    "source": "contracts/TrailCheq.algo.ts:70",
+    "pc": [
       352,
       353
     ]
   },
   {
-    "teal": 277,
-    "source": "contracts/TrailCheq.algo.ts:63",
+    "teal": 279,
+    "source": "contracts/TrailCheq.algo.ts:25",
     "pc": [
       354,
       355
     ]
   },
   {
-    "teal": 278,
-    "source": "contracts/TrailCheq.algo.ts:63",
+    "teal": 282,
+    "source": "contracts/TrailCheq.algo.ts:25",
     "pc": [
-      356
+      356,
+      357
     ]
   },
   {
-    "teal": 279,
-    "source": "contracts/TrailCheq.algo.ts:63",
+    "teal": 283,
+    "source": "contracts/TrailCheq.algo.ts:25",
     "pc": [
-      357,
-      358,
+      358
+    ]
+  },
+  {
+    "teal": 288,
+    "source": "contracts/TrailCheq.algo.ts:73",
+    "pc": [
       359
     ]
   },
   {
-    "teal": 280,
-    "source": "contracts/TrailCheq.algo.ts:61",
+    "teal": 291,
+    "source": "contracts/TrailCheq.algo.ts:73",
     "pc": [
-      360
+      360,
+      361,
+      362
     ]
   },
   {
-    "teal": 281,
-    "source": "contracts/TrailCheq.algo.ts:61",
+    "teal": 292,
+    "source": "contracts/TrailCheq.algo.ts:73",
     "pc": [
-      361
-    ]
-  },
-  {
-    "teal": 284,
-    "source": "contracts/TrailCheq.algo.ts:28",
-    "pc": [
-      362,
-      363
-    ]
-  },
-  {
-    "teal": 287,
-    "source": "contracts/TrailCheq.algo.ts:28",
-    "pc": [
+      363,
       364,
       365
     ]
   },
   {
-    "teal": 288,
-    "source": "contracts/TrailCheq.algo.ts:28",
+    "teal": 295,
+    "source": "contracts/TrailCheq.algo.ts:73",
     "pc": [
-      366
-    ]
-  },
-  {
-    "teal": 293,
-    "source": "contracts/TrailCheq.algo.ts:68",
-    "pc": [
-      367
+      366,
+      367,
+      368
     ]
   },
   {
     "teal": 296,
-    "source": "contracts/TrailCheq.algo.ts:68",
+    "source": "contracts/TrailCheq.algo.ts:73",
     "pc": [
-      368,
-      369,
-      370
+      369
     ]
   },
   {
     "teal": 297,
-    "source": "contracts/TrailCheq.algo.ts:68",
+    "source": "contracts/TrailCheq.algo.ts:73",
     "pc": [
-      371,
-      372,
-      373
+      370
     ]
   },
   {
-    "teal": 300,
-    "source": "contracts/TrailCheq.algo.ts:68",
+    "teal": 298,
+    "source": "contracts/TrailCheq.algo.ts:73",
     "pc": [
+      371
+    ]
+  },
+  {
+    "teal": 299,
+    "source": "contracts/TrailCheq.algo.ts:73",
+    "pc": [
+      372
+    ]
+  },
+  {
+    "teal": 303,
+    "source": "contracts/TrailCheq.algo.ts:73",
+    "pc": [
+      373,
       374,
-      375,
+      375
+    ]
+  },
+  {
+    "teal": 306,
+    "source": "contracts/TrailCheq.algo.ts:73",
+    "pc": [
       376
     ]
   },
   {
-    "teal": 301,
-    "source": "contracts/TrailCheq.algo.ts:68",
+    "teal": 310,
+    "source": "contracts/TrailCheq.algo.ts:77",
     "pc": [
       377
     ]
   },
   {
-    "teal": 302,
-    "source": "contracts/TrailCheq.algo.ts:68",
+    "teal": 311,
+    "source": "contracts/TrailCheq.algo.ts:77",
     "pc": [
-      378
-    ]
-  },
-  {
-    "teal": 303,
-    "source": "contracts/TrailCheq.algo.ts:68",
-    "pc": [
+      378,
       379
     ]
   },
   {
-    "teal": 304,
-    "source": "contracts/TrailCheq.algo.ts:68",
+    "teal": 312,
+    "source": "contracts/TrailCheq.algo.ts:77",
     "pc": [
       380
     ]
   },
   {
-    "teal": 308,
-    "source": "contracts/TrailCheq.algo.ts:68",
+    "teal": 313,
+    "source": "contracts/TrailCheq.algo.ts:77",
     "pc": [
-      381,
-      382,
-      383
+      381
     ]
   },
   {
-    "teal": 311,
-    "source": "contracts/TrailCheq.algo.ts:68",
+    "teal": 314,
+    "source": "contracts/TrailCheq.algo.ts:77",
     "pc": [
-      384
+      382
     ]
   },
   {
     "teal": 315,
-    "source": "contracts/TrailCheq.algo.ts:72",
+    "source": "contracts/TrailCheq.algo.ts:77",
     "pc": [
+      383,
+      384,
       385
     ]
   },
   {
     "teal": 316,
-    "source": "contracts/TrailCheq.algo.ts:72",
+    "source": "contracts/TrailCheq.algo.ts:77",
     "pc": [
-      386,
-      387
+      386
     ]
   },
   {
     "teal": 317,
-    "source": "contracts/TrailCheq.algo.ts:72",
+    "source": "contracts/TrailCheq.algo.ts:77",
+    "pc": [
+      387
+    ]
+  },
+  {
+    "teal": 318,
+    "source": "contracts/TrailCheq.algo.ts:77",
     "pc": [
       388
     ]
   },
   {
-    "teal": 318,
-    "source": "contracts/TrailCheq.algo.ts:72",
+    "teal": 319,
+    "source": "contracts/TrailCheq.algo.ts:77",
     "pc": [
       389
     ]
   },
   {
-    "teal": 319,
-    "source": "contracts/TrailCheq.algo.ts:72",
+    "teal": 320,
+    "source": "contracts/TrailCheq.algo.ts:77",
     "pc": [
       390
     ]
   },
   {
-    "teal": 320,
-    "source": "contracts/TrailCheq.algo.ts:72",
-    "pc": [
-      391,
-      392,
-      393
-    ]
-  },
-  {
     "teal": 321,
-    "source": "contracts/TrailCheq.algo.ts:72",
+    "source": "contracts/TrailCheq.algo.ts:77",
     "pc": [
-      394
+      391
     ]
   },
   {
     "teal": 322,
-    "source": "contracts/TrailCheq.algo.ts:72",
+    "source": "contracts/TrailCheq.algo.ts:77",
     "pc": [
+      392
+    ]
+  },
+  {
+    "teal": 326,
+    "source": "contracts/TrailCheq.algo.ts:78",
+    "pc": [
+      393
+    ]
+  },
+  {
+    "teal": 327,
+    "source": "contracts/TrailCheq.algo.ts:78",
+    "pc": [
+      394,
       395
     ]
   },
   {
-    "teal": 323,
-    "source": "contracts/TrailCheq.algo.ts:72",
+    "teal": 328,
+    "source": "contracts/TrailCheq.algo.ts:78",
     "pc": [
       396
     ]
   },
   {
-    "teal": 324,
-    "source": "contracts/TrailCheq.algo.ts:72",
+    "teal": 329,
+    "source": "contracts/TrailCheq.algo.ts:78",
     "pc": [
       397
     ]
   },
   {
-    "teal": 325,
-    "source": "contracts/TrailCheq.algo.ts:72",
+    "teal": 330,
+    "source": "contracts/TrailCheq.algo.ts:78",
     "pc": [
       398
     ]
   },
   {
-    "teal": 326,
-    "source": "contracts/TrailCheq.algo.ts:72",
-    "pc": [
-      399
-    ]
-  },
-  {
-    "teal": 327,
-    "source": "contracts/TrailCheq.algo.ts:72",
-    "pc": [
-      400
-    ]
-  },
-  {
     "teal": 331,
-    "source": "contracts/TrailCheq.algo.ts:73",
+    "source": "contracts/TrailCheq.algo.ts:78",
     "pc": [
+      399,
+      400,
       401
     ]
   },
   {
     "teal": 332,
-    "source": "contracts/TrailCheq.algo.ts:73",
+    "source": "contracts/TrailCheq.algo.ts:78",
     "pc": [
-      402,
-      403
+      402
     ]
   },
   {
     "teal": 333,
-    "source": "contracts/TrailCheq.algo.ts:73",
+    "source": "contracts/TrailCheq.algo.ts:78",
+    "pc": [
+      403
+    ]
+  },
+  {
+    "teal": 334,
+    "source": "contracts/TrailCheq.algo.ts:78",
     "pc": [
       404
     ]
   },
   {
-    "teal": 334,
-    "source": "contracts/TrailCheq.algo.ts:73",
+    "teal": 335,
+    "source": "contracts/TrailCheq.algo.ts:78",
     "pc": [
       405
     ]
   },
   {
-    "teal": 335,
-    "source": "contracts/TrailCheq.algo.ts:73",
+    "teal": 338,
+    "source": "contracts/TrailCheq.algo.ts:78",
+    "errorMessage": "box value does not exist: this.products(id).value",
     "pc": [
       406
     ]
   },
   {
-    "teal": 336,
-    "source": "contracts/TrailCheq.algo.ts:73",
+    "teal": 339,
+    "source": "contracts/TrailCheq.algo.ts:78",
     "pc": [
       407,
-      408,
-      409
-    ]
-  },
-  {
-    "teal": 337,
-    "source": "contracts/TrailCheq.algo.ts:73",
-    "pc": [
-      410
-    ]
-  },
-  {
-    "teal": 338,
-    "source": "contracts/TrailCheq.algo.ts:73",
-    "pc": [
-      411
-    ]
-  },
-  {
-    "teal": 339,
-    "source": "contracts/TrailCheq.algo.ts:73",
-    "pc": [
-      412
+      408
     ]
   },
   {
     "teal": 340,
-    "source": "contracts/TrailCheq.algo.ts:73",
+    "source": "contracts/TrailCheq.algo.ts:78",
+    "pc": [
+      409,
+      410
+    ]
+  },
+  {
+    "teal": 341,
+    "source": "contracts/TrailCheq.algo.ts:78",
+    "pc": [
+      411,
+      412
+    ]
+  },
+  {
+    "teal": 342,
+    "source": "contracts/TrailCheq.algo.ts:78",
     "pc": [
       413
     ]
   },
   {
     "teal": 343,
-    "source": "contracts/TrailCheq.algo.ts:73",
-    "errorMessage": "box value does not exist: this.products(id).value",
+    "source": "contracts/TrailCheq.algo.ts:78",
     "pc": [
       414
     ]
   },
   {
     "teal": 344,
-    "source": "contracts/TrailCheq.algo.ts:73",
+    "source": "contracts/TrailCheq.algo.ts:78",
     "pc": [
-      415,
+      415
+    ]
+  },
+  {
+    "teal": 348,
+    "source": "contracts/TrailCheq.algo.ts:81",
+    "pc": [
       416
     ]
   },
   {
-    "teal": 345,
-    "source": "contracts/TrailCheq.algo.ts:73",
+    "teal": 349,
+    "source": "contracts/TrailCheq.algo.ts:81",
     "pc": [
       417,
       418
     ]
   },
   {
-    "teal": 346,
-    "source": "contracts/TrailCheq.algo.ts:73",
+    "teal": 350,
+    "source": "contracts/TrailCheq.algo.ts:81",
     "pc": [
-      419,
+      419
+    ]
+  },
+  {
+    "teal": 351,
+    "source": "contracts/TrailCheq.algo.ts:81",
+    "pc": [
       420
     ]
   },
   {
-    "teal": 347,
-    "source": "contracts/TrailCheq.algo.ts:73",
+    "teal": 352,
+    "source": "contracts/TrailCheq.algo.ts:81",
     "pc": [
       421
     ]
   },
   {
-    "teal": 348,
-    "source": "contracts/TrailCheq.algo.ts:73",
-    "pc": [
-      422
-    ]
-  },
-  {
-    "teal": 349,
-    "source": "contracts/TrailCheq.algo.ts:73",
-    "pc": [
-      423
-    ]
-  },
-  {
     "teal": 353,
-    "source": "contracts/TrailCheq.algo.ts:76",
+    "source": "contracts/TrailCheq.algo.ts:81",
     "pc": [
+      422,
+      423,
       424
     ]
   },
   {
     "teal": 354,
-    "source": "contracts/TrailCheq.algo.ts:76",
+    "source": "contracts/TrailCheq.algo.ts:81",
     "pc": [
-      425,
-      426
+      425
     ]
   },
   {
     "teal": 355,
-    "source": "contracts/TrailCheq.algo.ts:76",
+    "source": "contracts/TrailCheq.algo.ts:81",
+    "pc": [
+      426
+    ]
+  },
+  {
+    "teal": 356,
+    "source": "contracts/TrailCheq.algo.ts:81",
     "pc": [
       427
     ]
   },
   {
-    "teal": 356,
-    "source": "contracts/TrailCheq.algo.ts:76",
-    "pc": [
-      428
-    ]
-  },
-  {
     "teal": 357,
-    "source": "contracts/TrailCheq.algo.ts:76",
+    "source": "contracts/TrailCheq.algo.ts:81",
     "pc": [
+      428,
       429
     ]
   },
   {
-    "teal": 358,
-    "source": "contracts/TrailCheq.algo.ts:76",
+    "teal": 361,
+    "source": "contracts/TrailCheq.algo.ts:81",
     "pc": [
       430,
-      431,
+      431
+    ]
+  },
+  {
+    "teal": 362,
+    "source": "contracts/TrailCheq.algo.ts:81",
+    "pc": [
       432
     ]
   },
   {
-    "teal": 359,
-    "source": "contracts/TrailCheq.algo.ts:76",
+    "teal": 365,
+    "source": "contracts/TrailCheq.algo.ts:81",
+    "errorMessage": "box value does not exist: this.products(id).value",
     "pc": [
       433
     ]
   },
   {
-    "teal": 360,
-    "source": "contracts/TrailCheq.algo.ts:76",
+    "teal": 366,
+    "source": "contracts/TrailCheq.algo.ts:82",
     "pc": [
-      434
-    ]
-  },
-  {
-    "teal": 361,
-    "source": "contracts/TrailCheq.algo.ts:76",
-    "pc": [
+      434,
       435
     ]
   },
   {
-    "teal": 362,
-    "source": "contracts/TrailCheq.algo.ts:76",
+    "teal": 367,
+    "source": "contracts/TrailCheq.algo.ts:82",
     "pc": [
       436,
       437
     ]
   },
   {
-    "teal": 366,
-    "source": "contracts/TrailCheq.algo.ts:76",
+    "teal": 368,
+    "source": "contracts/TrailCheq.algo.ts:82",
     "pc": [
       438,
       439
     ]
   },
   {
-    "teal": 367,
-    "source": "contracts/TrailCheq.algo.ts:76",
+    "teal": 369,
+    "source": "contracts/TrailCheq.algo.ts:82",
     "pc": [
       440
     ]
   },
   {
     "teal": 370,
-    "source": "contracts/TrailCheq.algo.ts:76",
-    "errorMessage": "box value does not exist: this.products(id).value",
+    "source": "contracts/TrailCheq.algo.ts:82",
     "pc": [
       441
     ]
   },
   {
     "teal": 371,
-    "source": "contracts/TrailCheq.algo.ts:77",
+    "source": "contracts/TrailCheq.algo.ts:81",
     "pc": [
       442,
       443
@@ -1876,401 +1865,383 @@
   },
   {
     "teal": 372,
-    "source": "contracts/TrailCheq.algo.ts:77",
+    "source": "contracts/TrailCheq.algo.ts:81",
     "pc": [
-      444,
-      445
+      444
     ]
   },
   {
     "teal": 373,
-    "source": "contracts/TrailCheq.algo.ts:77",
+    "source": "contracts/TrailCheq.algo.ts:81",
     "pc": [
-      446,
-      447
+      445
     ]
   },
   {
     "teal": 374,
-    "source": "contracts/TrailCheq.algo.ts:77",
+    "source": "contracts/TrailCheq.algo.ts:81",
+    "pc": [
+      446
+    ]
+  },
+  {
+    "teal": 375,
+    "source": "contracts/TrailCheq.algo.ts:81",
+    "pc": [
+      447
+    ]
+  },
+  {
+    "teal": 376,
+    "source": "contracts/TrailCheq.algo.ts:81",
     "pc": [
       448
     ]
   },
   {
-    "teal": 375,
-    "source": "contracts/TrailCheq.algo.ts:77",
+    "teal": 380,
+    "source": "contracts/TrailCheq.algo.ts:83",
     "pc": [
       449
     ]
   },
   {
-    "teal": 376,
-    "source": "contracts/TrailCheq.algo.ts:76",
+    "teal": 381,
+    "source": "contracts/TrailCheq.algo.ts:83",
     "pc": [
       450,
       451
     ]
   },
   {
-    "teal": 377,
-    "source": "contracts/TrailCheq.algo.ts:76",
+    "teal": 382,
+    "source": "contracts/TrailCheq.algo.ts:83",
     "pc": [
       452
     ]
   },
   {
-    "teal": 378,
-    "source": "contracts/TrailCheq.algo.ts:76",
+    "teal": 383,
+    "source": "contracts/TrailCheq.algo.ts:83",
     "pc": [
       453
     ]
   },
   {
-    "teal": 379,
-    "source": "contracts/TrailCheq.algo.ts:76",
+    "teal": 384,
+    "source": "contracts/TrailCheq.algo.ts:83",
     "pc": [
       454
     ]
   },
   {
-    "teal": 380,
-    "source": "contracts/TrailCheq.algo.ts:76",
-    "pc": [
-      455
-    ]
-  },
-  {
-    "teal": 381,
-    "source": "contracts/TrailCheq.algo.ts:76",
-    "pc": [
-      456
-    ]
-  },
-  {
     "teal": 385,
-    "source": "contracts/TrailCheq.algo.ts:78",
+    "source": "contracts/TrailCheq.algo.ts:83",
     "pc": [
+      455,
+      456,
       457
     ]
   },
   {
     "teal": 386,
-    "source": "contracts/TrailCheq.algo.ts:78",
+    "source": "contracts/TrailCheq.algo.ts:83",
     "pc": [
-      458,
-      459
+      458
     ]
   },
   {
     "teal": 387,
-    "source": "contracts/TrailCheq.algo.ts:78",
+    "source": "contracts/TrailCheq.algo.ts:83",
+    "pc": [
+      459
+    ]
+  },
+  {
+    "teal": 388,
+    "source": "contracts/TrailCheq.algo.ts:83",
     "pc": [
       460
     ]
   },
   {
-    "teal": 388,
-    "source": "contracts/TrailCheq.algo.ts:78",
+    "teal": 389,
+    "source": "contracts/TrailCheq.algo.ts:83",
     "pc": [
       461
     ]
   },
   {
-    "teal": 389,
-    "source": "contracts/TrailCheq.algo.ts:78",
+    "teal": 390,
+    "source": "contracts/TrailCheq.algo.ts:83",
     "pc": [
       462
     ]
   },
   {
-    "teal": 390,
-    "source": "contracts/TrailCheq.algo.ts:78",
+    "teal": 391,
+    "source": "contracts/TrailCheq.algo.ts:83",
     "pc": [
-      463,
+      463
+    ]
+  },
+  {
+    "teal": 392,
+    "source": "contracts/TrailCheq.algo.ts:81",
+    "pc": [
       464,
       465
     ]
   },
   {
-    "teal": 391,
-    "source": "contracts/TrailCheq.algo.ts:78",
+    "teal": 393,
+    "source": "contracts/TrailCheq.algo.ts:81",
     "pc": [
       466
     ]
   },
   {
-    "teal": 392,
-    "source": "contracts/TrailCheq.algo.ts:78",
+    "teal": 396,
+    "source": "contracts/TrailCheq.algo.ts:81",
+    "errorMessage": "box value does not exist: this.products(id).value",
     "pc": [
       467
     ]
   },
   {
-    "teal": 393,
-    "source": "contracts/TrailCheq.algo.ts:78",
+    "teal": 397,
+    "source": "contracts/TrailCheq.algo.ts:83",
     "pc": [
       468
     ]
   },
   {
-    "teal": 394,
-    "source": "contracts/TrailCheq.algo.ts:78",
+    "teal": 401,
+    "source": "contracts/TrailCheq.algo.ts:85",
     "pc": [
       469
     ]
   },
   {
-    "teal": 395,
-    "source": "contracts/TrailCheq.algo.ts:78",
+    "teal": 402,
+    "source": "contracts/TrailCheq.algo.ts:85",
     "pc": [
       470
     ]
   },
   {
-    "teal": 396,
-    "source": "contracts/TrailCheq.algo.ts:78",
+    "teal": 403,
+    "source": "contracts/TrailCheq.algo.ts:85",
     "pc": [
-      471
-    ]
-  },
-  {
-    "teal": 397,
-    "source": "contracts/TrailCheq.algo.ts:76",
-    "pc": [
+      471,
       472,
-      473
-    ]
-  },
-  {
-    "teal": 398,
-    "source": "contracts/TrailCheq.algo.ts:76",
-    "pc": [
+      473,
       474
     ]
   },
   {
-    "teal": 401,
-    "source": "contracts/TrailCheq.algo.ts:76",
-    "errorMessage": "box value does not exist: this.products(id).value",
+    "teal": 404,
+    "source": "contracts/TrailCheq.algo.ts:81",
     "pc": [
-      475
-    ]
-  },
-  {
-    "teal": 402,
-    "source": "contracts/TrailCheq.algo.ts:78",
-    "pc": [
+      475,
       476
     ]
   },
   {
-    "teal": 406,
-    "source": "contracts/TrailCheq.algo.ts:80",
+    "teal": 405,
+    "source": "contracts/TrailCheq.algo.ts:81",
     "pc": [
       477
     ]
   },
   {
-    "teal": 407,
-    "source": "contracts/TrailCheq.algo.ts:80",
+    "teal": 408,
+    "source": "contracts/TrailCheq.algo.ts:81",
+    "errorMessage": "box value does not exist: this.products(id).value",
     "pc": [
       478
     ]
   },
   {
-    "teal": 408,
-    "source": "contracts/TrailCheq.algo.ts:80",
+    "teal": 409,
+    "source": "contracts/TrailCheq.algo.ts:85",
     "pc": [
       479,
-      480
-    ]
-  },
-  {
-    "teal": 409,
-    "source": "contracts/TrailCheq.algo.ts:76",
-    "pc": [
-      481,
-      482
+      480,
+      481
     ]
   },
   {
     "teal": 410,
-    "source": "contracts/TrailCheq.algo.ts:76",
+    "source": "contracts/TrailCheq.algo.ts:85",
     "pc": [
+      482,
       483
     ]
   },
   {
-    "teal": 413,
-    "source": "contracts/TrailCheq.algo.ts:76",
-    "errorMessage": "box value does not exist: this.products(id).value",
+    "teal": 411,
+    "source": "contracts/TrailCheq.algo.ts:85",
     "pc": [
-      484
+      484,
+      485
     ]
   },
   {
-    "teal": 414,
-    "source": "contracts/TrailCheq.algo.ts:80",
+    "teal": 412,
+    "source": "contracts/TrailCheq.algo.ts:85",
     "pc": [
-      485,
-      486,
+      486
+    ]
+  },
+  {
+    "teal": 413,
+    "source": "contracts/TrailCheq.algo.ts:85",
+    "pc": [
       487
     ]
   },
   {
-    "teal": 415,
-    "source": "contracts/TrailCheq.algo.ts:80",
+    "teal": 414,
+    "source": "contracts/TrailCheq.algo.ts:85",
     "pc": [
-      488,
-      489
+      488
     ]
   },
   {
-    "teal": 416,
-    "source": "contracts/TrailCheq.algo.ts:80",
+    "teal": 415,
+    "source": "contracts/TrailCheq.algo.ts:85",
     "pc": [
+      489,
       490,
       491
     ]
   },
   {
-    "teal": 417,
-    "source": "contracts/TrailCheq.algo.ts:80",
+    "teal": 416,
+    "source": "contracts/TrailCheq.algo.ts:85",
     "pc": [
       492
     ]
   },
   {
-    "teal": 418,
-    "source": "contracts/TrailCheq.algo.ts:80",
+    "teal": 417,
+    "source": "contracts/TrailCheq.algo.ts:85",
     "pc": [
       493
     ]
   },
   {
-    "teal": 419,
-    "source": "contracts/TrailCheq.algo.ts:80",
+    "teal": 418,
+    "source": "contracts/TrailCheq.algo.ts:85",
     "pc": [
       494
     ]
   },
   {
-    "teal": 420,
-    "source": "contracts/TrailCheq.algo.ts:80",
+    "teal": 419,
+    "source": "contracts/TrailCheq.algo.ts:85",
     "pc": [
-      495,
-      496,
+      495
+    ]
+  },
+  {
+    "teal": 422,
+    "source": "contracts/TrailCheq.algo.ts:85",
+    "errorMessage": "box value does not exist: this.productNFTs(id).value",
+    "pc": [
+      496
+    ]
+  },
+  {
+    "teal": 423,
+    "source": "contracts/TrailCheq.algo.ts:85",
+    "pc": [
       497
     ]
   },
   {
-    "teal": 421,
-    "source": "contracts/TrailCheq.algo.ts:80",
+    "teal": 424,
+    "source": "contracts/TrailCheq.algo.ts:85",
     "pc": [
       498
     ]
   },
   {
-    "teal": 422,
-    "source": "contracts/TrailCheq.algo.ts:80",
+    "teal": 425,
+    "source": "contracts/TrailCheq.algo.ts:85",
     "pc": [
-      499
-    ]
-  },
-  {
-    "teal": 423,
-    "source": "contracts/TrailCheq.algo.ts:80",
-    "pc": [
-      500
-    ]
-  },
-  {
-    "teal": 424,
-    "source": "contracts/TrailCheq.algo.ts:80",
-    "pc": [
+      499,
+      500,
       501
     ]
   },
   {
-    "teal": 427,
-    "source": "contracts/TrailCheq.algo.ts:80",
-    "errorMessage": "box value does not exist: this.productNFTs(id).value",
+    "teal": 426,
+    "source": "contracts/TrailCheq.algo.ts:85",
     "pc": [
       502
     ]
   },
   {
-    "teal": 428,
-    "source": "contracts/TrailCheq.algo.ts:80",
+    "teal": 427,
+    "source": "contracts/TrailCheq.algo.ts:85",
     "pc": [
       503
     ]
   },
   {
-    "teal": 429,
-    "source": "contracts/TrailCheq.algo.ts:80",
-    "pc": [
-      504
-    ]
-  },
-  {
     "teal": 430,
-    "source": "contracts/TrailCheq.algo.ts:80",
+    "source": "contracts/TrailCheq.algo.ts:73",
     "pc": [
-      505,
-      506,
-      507
+      504,
+      505
     ]
   },
   {
     "teal": 431,
-    "source": "contracts/TrailCheq.algo.ts:80",
+    "source": "contracts/TrailCheq.algo.ts:73",
     "pc": [
-      508
-    ]
-  },
-  {
-    "teal": 432,
-    "source": "contracts/TrailCheq.algo.ts:80",
-    "pc": [
-      509
-    ]
-  },
-  {
-    "teal": 435,
-    "source": "contracts/TrailCheq.algo.ts:68",
-    "pc": [
-      510,
-      511
+      506
     ]
   },
   {
     "teal": 436,
-    "source": "contracts/TrailCheq.algo.ts:68",
+    "source": "contracts/TrailCheq.algo.ts:89",
     "pc": [
-      512
+      507,
+      508,
+      509
+    ]
+  },
+  {
+    "teal": 437,
+    "source": "contracts/TrailCheq.algo.ts:89",
+    "pc": [
+      510
+    ]
+  },
+  {
+    "teal": 440,
+    "source": "contracts/TrailCheq.algo.ts:89",
+    "pc": [
+      511,
+      512,
+      513
     ]
   },
   {
     "teal": 441,
-    "source": "contracts/TrailCheq.algo.ts:84",
+    "source": "contracts/TrailCheq.algo.ts:89",
     "pc": [
-      513,
       514,
-      515
-    ]
-  },
-  {
-    "teal": 442,
-    "source": "contracts/TrailCheq.algo.ts:84",
-    "pc": [
+      515,
       516
     ]
   },
   {
-    "teal": 445,
-    "source": "contracts/TrailCheq.algo.ts:84",
+    "teal": 444,
+    "source": "contracts/TrailCheq.algo.ts:89",
     "pc": [
       517,
       518,
@@ -2278,8 +2249,8 @@
     ]
   },
   {
-    "teal": 446,
-    "source": "contracts/TrailCheq.algo.ts:84",
+    "teal": 445,
+    "source": "contracts/TrailCheq.algo.ts:89",
     "pc": [
       520,
       521,
@@ -2287,8 +2258,8 @@
     ]
   },
   {
-    "teal": 449,
-    "source": "contracts/TrailCheq.algo.ts:84",
+    "teal": 448,
+    "source": "contracts/TrailCheq.algo.ts:89",
     "pc": [
       523,
       524,
@@ -2296,8 +2267,8 @@
     ]
   },
   {
-    "teal": 450,
-    "source": "contracts/TrailCheq.algo.ts:84",
+    "teal": 449,
+    "source": "contracts/TrailCheq.algo.ts:89",
     "pc": [
       526,
       527,
@@ -2305,8 +2276,8 @@
     ]
   },
   {
-    "teal": 453,
-    "source": "contracts/TrailCheq.algo.ts:84",
+    "teal": 452,
+    "source": "contracts/TrailCheq.algo.ts:89",
     "pc": [
       529,
       530,
@@ -2314,516 +2285,534 @@
     ]
   },
   {
-    "teal": 454,
-    "source": "contracts/TrailCheq.algo.ts:84",
+    "teal": 453,
+    "source": "contracts/TrailCheq.algo.ts:89",
     "pc": [
-      532,
-      533,
-      534
+      532
     ]
   },
   {
-    "teal": 457,
-    "source": "contracts/TrailCheq.algo.ts:84",
+    "teal": 454,
+    "source": "contracts/TrailCheq.algo.ts:89",
     "pc": [
-      535,
-      536,
-      537
+      533
     ]
   },
   {
     "teal": 458,
-    "source": "contracts/TrailCheq.algo.ts:84",
+    "source": "contracts/TrailCheq.algo.ts:89",
+    "pc": [
+      534,
+      535,
+      536
+    ]
+  },
+  {
+    "teal": 461,
+    "source": "contracts/TrailCheq.algo.ts:89",
+    "pc": [
+      537
+    ]
+  },
+  {
+    "teal": 465,
+    "source": "contracts/TrailCheq.algo.ts:93",
     "pc": [
       538
     ]
   },
   {
-    "teal": 459,
-    "source": "contracts/TrailCheq.algo.ts:84",
+    "teal": 466,
+    "source": "contracts/TrailCheq.algo.ts:93",
     "pc": [
-      539
+      539,
+      540
     ]
   },
   {
-    "teal": 463,
-    "source": "contracts/TrailCheq.algo.ts:84",
+    "teal": 467,
+    "source": "contracts/TrailCheq.algo.ts:93",
     "pc": [
-      540,
-      541,
+      541
+    ]
+  },
+  {
+    "teal": 468,
+    "source": "contracts/TrailCheq.algo.ts:93",
+    "pc": [
       542
     ]
   },
   {
-    "teal": 466,
-    "source": "contracts/TrailCheq.algo.ts:84",
+    "teal": 469,
+    "source": "contracts/TrailCheq.algo.ts:93",
     "pc": [
       543
     ]
   },
   {
     "teal": 470,
-    "source": "contracts/TrailCheq.algo.ts:88",
+    "source": "contracts/TrailCheq.algo.ts:93",
     "pc": [
-      544
-    ]
-  },
-  {
-    "teal": 471,
-    "source": "contracts/TrailCheq.algo.ts:88",
-    "pc": [
+      544,
       545,
       546
     ]
   },
   {
-    "teal": 472,
-    "source": "contracts/TrailCheq.algo.ts:88",
+    "teal": 471,
+    "source": "contracts/TrailCheq.algo.ts:93",
     "pc": [
       547
     ]
   },
   {
-    "teal": 473,
-    "source": "contracts/TrailCheq.algo.ts:88",
+    "teal": 472,
+    "source": "contracts/TrailCheq.algo.ts:93",
     "pc": [
       548
     ]
   },
   {
-    "teal": 474,
-    "source": "contracts/TrailCheq.algo.ts:88",
+    "teal": 473,
+    "source": "contracts/TrailCheq.algo.ts:93",
     "pc": [
       549
     ]
   },
   {
-    "teal": 475,
-    "source": "contracts/TrailCheq.algo.ts:88",
+    "teal": 474,
+    "source": "contracts/TrailCheq.algo.ts:93",
     "pc": [
-      550,
-      551,
-      552
+      550
+    ]
+  },
+  {
+    "teal": 475,
+    "source": "contracts/TrailCheq.algo.ts:93",
+    "pc": [
+      551
     ]
   },
   {
     "teal": 476,
-    "source": "contracts/TrailCheq.algo.ts:88",
+    "source": "contracts/TrailCheq.algo.ts:93",
+    "pc": [
+      552
+    ]
+  },
+  {
+    "teal": 477,
+    "source": "contracts/TrailCheq.algo.ts:93",
     "pc": [
       553
     ]
   },
   {
-    "teal": 477,
-    "source": "contracts/TrailCheq.algo.ts:88",
+    "teal": 481,
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
       554
     ]
   },
   {
-    "teal": 478,
-    "source": "contracts/TrailCheq.algo.ts:88",
+    "teal": 482,
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
-      555
-    ]
-  },
-  {
-    "teal": 479,
-    "source": "contracts/TrailCheq.algo.ts:88",
-    "pc": [
+      555,
       556
     ]
   },
   {
-    "teal": 480,
-    "source": "contracts/TrailCheq.algo.ts:88",
+    "teal": 483,
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
       557
     ]
   },
   {
-    "teal": 481,
-    "source": "contracts/TrailCheq.algo.ts:88",
+    "teal": 484,
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
       558
     ]
   },
   {
-    "teal": 482,
-    "source": "contracts/TrailCheq.algo.ts:88",
+    "teal": 485,
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
       559
     ]
   },
   {
     "teal": 486,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
-      560
-    ]
-  },
-  {
-    "teal": 487,
-    "source": "contracts/TrailCheq.algo.ts:91",
-    "pc": [
+      560,
       561,
       562
     ]
   },
   {
-    "teal": 488,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "teal": 487,
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
       563
     ]
   },
   {
-    "teal": 489,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "teal": 488,
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
       564
     ]
   },
   {
-    "teal": 490,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "teal": 489,
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
       565
     ]
   },
   {
-    "teal": 491,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "teal": 490,
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
       566,
-      567,
-      568
+      567
     ]
   },
   {
-    "teal": 492,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "teal": 494,
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
+      568,
       569
     ]
   },
   {
-    "teal": 493,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "teal": 495,
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
       570
     ]
   },
   {
-    "teal": 494,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "teal": 498,
+    "source": "contracts/TrailCheq.algo.ts:96",
+    "errorMessage": "box value does not exist: this.products(id).value",
     "pc": [
       571
     ]
   },
   {
-    "teal": 495,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "teal": 499,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
       572,
       573
     ]
   },
   {
-    "teal": 499,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "teal": 500,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      574,
+      574
+    ]
+  },
+  {
+    "teal": 501,
+    "source": "contracts/TrailCheq.algo.ts:97",
+    "pc": [
       575
     ]
   },
   {
-    "teal": 500,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "teal": 502,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      576
-    ]
-  },
-  {
-    "teal": 503,
-    "source": "contracts/TrailCheq.algo.ts:91",
-    "errorMessage": "box value does not exist: this.products(id).value",
-    "pc": [
+      576,
       577
     ]
   },
   {
-    "teal": 504,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 503,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
       578,
       579
     ]
   },
   {
-    "teal": 505,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 504,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      580
-    ]
-  },
-  {
-    "teal": 506,
-    "source": "contracts/TrailCheq.algo.ts:92",
-    "pc": [
+      580,
       581
     ]
   },
   {
-    "teal": 507,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 505,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
       582,
       583
     ]
   },
   {
-    "teal": 508,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 506,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      584,
+      584
+    ]
+  },
+  {
+    "teal": 507,
+    "source": "contracts/TrailCheq.algo.ts:97",
+    "pc": [
       585
     ]
   },
   {
-    "teal": 509,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 508,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
       586,
       587
     ]
   },
   {
-    "teal": 510,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 509,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      588,
-      589
+      588
     ]
   },
   {
-    "teal": 511,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 510,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
+      589,
       590
     ]
   },
   {
-    "teal": 512,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 511,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
       591
     ]
   },
   {
-    "teal": 513,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 512,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      592,
+      592
+    ]
+  },
+  {
+    "teal": 513,
+    "source": "contracts/TrailCheq.algo.ts:97",
+    "pc": [
       593
     ]
   },
   {
     "teal": 514,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
       594
     ]
   },
   {
     "teal": 515,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      595,
-      596
+      595
     ]
   },
   {
     "teal": 516,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      597
+      596
     ]
   },
   {
     "teal": 517,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
+      597,
       598
     ]
   },
   {
     "teal": 518,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      599
-    ]
-  },
-  {
-    "teal": 519,
-    "source": "contracts/TrailCheq.algo.ts:92",
-    "pc": [
+      599,
       600
     ]
   },
   {
-    "teal": 520,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 519,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
       601
     ]
   },
   {
-    "teal": 521,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 520,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      602
+      602,
+      603
     ]
   },
   {
-    "teal": 522,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 521,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      603,
       604
     ]
   },
   {
-    "teal": 523,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 522,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
       605,
       606
     ]
   },
   {
-    "teal": 524,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 523,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
       607
     ]
   },
   {
-    "teal": 525,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 524,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      608,
+      608
+    ]
+  },
+  {
+    "teal": 525,
+    "source": "contracts/TrailCheq.algo.ts:97",
+    "pc": [
       609
     ]
   },
   {
     "teal": 526,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      610
-    ]
-  },
-  {
-    "teal": 527,
-    "source": "contracts/TrailCheq.algo.ts:92",
-    "pc": [
+      610,
       611,
       612
     ]
   },
   {
-    "teal": 528,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 527,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
       613
     ]
   },
   {
-    "teal": 529,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 528,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
       614
     ]
   },
   {
-    "teal": 530,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 529,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
       615
     ]
   },
   {
-    "teal": 531,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 530,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
       616,
-      617,
-      618
+      617
     ]
   },
   {
-    "teal": 532,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 531,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
+      618,
       619
     ]
   },
   {
-    "teal": 533,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 532,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      620
-    ]
-  },
-  {
-    "teal": 534,
-    "source": "contracts/TrailCheq.algo.ts:92",
-    "pc": [
+      620,
       621
     ]
   },
   {
-    "teal": 535,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 533,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
       622,
       623
     ]
   },
   {
-    "teal": 536,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 534,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      624,
-      625
+      624
     ]
   },
   {
-    "teal": 537,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 535,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      626,
+      625,
+      626
+    ]
+  },
+  {
+    "teal": 536,
+    "source": "contracts/TrailCheq.algo.ts:97",
+    "pc": [
       627
     ]
   },
   {
-    "teal": 538,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 537,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      628,
+      628
+    ]
+  },
+  {
+    "teal": 538,
+    "source": "contracts/TrailCheq.algo.ts:97",
+    "pc": [
       629
     ]
   },
   {
     "teal": 539,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
       630
     ]
   },
   {
     "teal": 540,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
       631,
       632
@@ -2831,553 +2820,553 @@
   },
   {
     "teal": 541,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      633
-    ]
-  },
-  {
-    "teal": 542,
-    "source": "contracts/TrailCheq.algo.ts:92",
-    "pc": [
-      634
-    ]
-  },
-  {
-    "teal": 543,
-    "source": "contracts/TrailCheq.algo.ts:92",
-    "pc": [
+      633,
+      634,
       635
     ]
   },
   {
-    "teal": 544,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 542,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      636
+      636,
+      637
+    ]
+  },
+  {
+    "teal": 543,
+    "source": "contracts/TrailCheq.algo.ts:97",
+    "pc": [
+      638,
+      639
+    ]
+  },
+  {
+    "teal": 544,
+    "source": "contracts/TrailCheq.algo.ts:97",
+    "pc": [
+      640
     ]
   },
   {
     "teal": 545,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      637,
-      638
-    ]
-  },
-  {
-    "teal": 546,
-    "source": "contracts/TrailCheq.algo.ts:92",
-    "pc": [
-      639,
-      640,
       641
     ]
   },
   {
-    "teal": 547,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 546,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
       642,
-      643
+      643,
+      644
     ]
   },
   {
-    "teal": 548,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 547,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      644,
-      645
-    ]
-  },
-  {
-    "teal": 549,
-    "source": "contracts/TrailCheq.algo.ts:92",
-    "pc": [
+      645,
       646
     ]
   },
   {
-    "teal": 550,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 548,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      647
+      647,
+      648
     ]
   },
   {
-    "teal": 551,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 549,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      648,
       649,
       650
     ]
   },
   {
-    "teal": 552,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 550,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      651,
-      652
+      651
     ]
   },
   {
-    "teal": 553,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 551,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
+      652,
       653,
       654
     ]
   },
   {
-    "teal": 554,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 552,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
       655,
       656
     ]
   },
   {
-    "teal": 555,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 553,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      657
+      657,
+      658
     ]
   },
   {
-    "teal": 556,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 554,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      658,
-      659,
+      659
+    ]
+  },
+  {
+    "teal": 555,
+    "source": "contracts/TrailCheq.algo.ts:97",
+    "pc": [
       660
     ]
   },
   {
-    "teal": 557,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 556,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
       661,
-      662
+      662,
+      663
     ]
   },
   {
-    "teal": 558,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 557,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      663,
-      664
-    ]
-  },
-  {
-    "teal": 559,
-    "source": "contracts/TrailCheq.algo.ts:92",
-    "pc": [
+      664,
       665
     ]
   },
   {
-    "teal": 560,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 558,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      666
+      666,
+      667
     ]
   },
   {
-    "teal": 561,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 559,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      667,
       668,
       669
     ]
   },
   {
-    "teal": 562,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 560,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
-      670,
-      671
+      670
     ]
   },
   {
-    "teal": 563,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 561,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
+      671,
       672,
       673
     ]
   },
   {
-    "teal": 564,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 562,
+    "source": "contracts/TrailCheq.algo.ts:97",
     "pc": [
       674,
       675
     ]
   },
   {
-    "teal": 565,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 563,
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
-      676
+      676,
+      677
     ]
   },
   {
-    "teal": 566,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 564,
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
-      677,
-      678,
+      678
+    ]
+  },
+  {
+    "teal": 565,
+    "source": "contracts/TrailCheq.algo.ts:96",
+    "pc": [
       679
     ]
   },
   {
-    "teal": 567,
-    "source": "contracts/TrailCheq.algo.ts:92",
+    "teal": 566,
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
-      680,
+      680
+    ]
+  },
+  {
+    "teal": 567,
+    "source": "contracts/TrailCheq.algo.ts:96",
+    "pc": [
       681
     ]
   },
   {
     "teal": 568,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
-      682,
-      683
+      682
     ]
   },
   {
-    "teal": 569,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "teal": 572,
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
+      683,
       684
     ]
   },
   {
-    "teal": 570,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "teal": 573,
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
       685
     ]
   },
   {
-    "teal": 571,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "teal": 576,
+    "source": "contracts/TrailCheq.algo.ts:96",
+    "errorMessage": "box value does not exist: this.products(id).value",
     "pc": [
       686
     ]
   },
   {
-    "teal": 572,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "teal": 577,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      687
-    ]
-  },
-  {
-    "teal": 573,
-    "source": "contracts/TrailCheq.algo.ts:91",
-    "pc": [
+      687,
       688
     ]
   },
   {
-    "teal": 577,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "teal": 578,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      689,
+      689
+    ]
+  },
+  {
+    "teal": 579,
+    "source": "contracts/TrailCheq.algo.ts:98",
+    "pc": [
       690
     ]
   },
   {
-    "teal": 578,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "teal": 580,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      691
-    ]
-  },
-  {
-    "teal": 581,
-    "source": "contracts/TrailCheq.algo.ts:91",
-    "errorMessage": "box value does not exist: this.products(id).value",
-    "pc": [
+      691,
       692
     ]
   },
   {
-    "teal": 582,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 581,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
       693,
       694
     ]
   },
   {
-    "teal": 583,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 582,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      695
-    ]
-  },
-  {
-    "teal": 584,
-    "source": "contracts/TrailCheq.algo.ts:93",
-    "pc": [
+      695,
       696
     ]
   },
   {
-    "teal": 585,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 583,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
       697,
       698
     ]
   },
   {
-    "teal": 586,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 584,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      699,
+      699
+    ]
+  },
+  {
+    "teal": 585,
+    "source": "contracts/TrailCheq.algo.ts:98",
+    "pc": [
       700
     ]
   },
   {
-    "teal": 587,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 586,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
       701,
       702
     ]
   },
   {
-    "teal": 588,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 587,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      703,
-      704
+      703
     ]
   },
   {
-    "teal": 589,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 588,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
+      704,
       705
     ]
   },
   {
-    "teal": 590,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 589,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
       706
     ]
   },
   {
-    "teal": 591,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 590,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      707,
+      707
+    ]
+  },
+  {
+    "teal": 591,
+    "source": "contracts/TrailCheq.algo.ts:98",
+    "pc": [
       708
     ]
   },
   {
     "teal": 592,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
       709
     ]
   },
   {
     "teal": 593,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      710,
-      711
+      710
     ]
   },
   {
     "teal": 594,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      712
+      711
     ]
   },
   {
     "teal": 595,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
+      712,
       713
     ]
   },
   {
     "teal": 596,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      714
-    ]
-  },
-  {
-    "teal": 597,
-    "source": "contracts/TrailCheq.algo.ts:93",
-    "pc": [
+      714,
       715
     ]
   },
   {
-    "teal": 598,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 597,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
       716
     ]
   },
   {
-    "teal": 599,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 598,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      717
+      717,
+      718
     ]
   },
   {
-    "teal": 600,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 599,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      718,
       719
     ]
   },
   {
-    "teal": 601,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 600,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
       720,
       721
     ]
   },
   {
-    "teal": 602,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 601,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
       722
     ]
   },
   {
-    "teal": 603,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 602,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      723,
+      723
+    ]
+  },
+  {
+    "teal": 603,
+    "source": "contracts/TrailCheq.algo.ts:98",
+    "pc": [
       724
     ]
   },
   {
     "teal": 604,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      725
-    ]
-  },
-  {
-    "teal": 605,
-    "source": "contracts/TrailCheq.algo.ts:93",
-    "pc": [
+      725,
       726,
       727
     ]
   },
   {
-    "teal": 606,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 605,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
       728
     ]
   },
   {
-    "teal": 607,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 606,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
       729
     ]
   },
   {
-    "teal": 608,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 607,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
       730
     ]
   },
   {
-    "teal": 609,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 608,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
       731,
-      732,
-      733
+      732
     ]
   },
   {
-    "teal": 610,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 609,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
+      733,
       734
     ]
   },
   {
-    "teal": 611,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 610,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      735
-    ]
-  },
-  {
-    "teal": 612,
-    "source": "contracts/TrailCheq.algo.ts:93",
-    "pc": [
+      735,
       736
     ]
   },
   {
-    "teal": 613,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 611,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
       737,
       738
     ]
   },
   {
-    "teal": 614,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 612,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      739,
-      740
+      739
     ]
   },
   {
-    "teal": 615,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 613,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      741,
+      740,
+      741
+    ]
+  },
+  {
+    "teal": 614,
+    "source": "contracts/TrailCheq.algo.ts:98",
+    "pc": [
       742
     ]
   },
   {
-    "teal": 616,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 615,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      743,
+      743
+    ]
+  },
+  {
+    "teal": 616,
+    "source": "contracts/TrailCheq.algo.ts:98",
+    "pc": [
       744
     ]
   },
   {
     "teal": 617,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
       745
     ]
   },
   {
     "teal": 618,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
       746,
       747
@@ -3385,386 +3374,386 @@
   },
   {
     "teal": 619,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      748
-    ]
-  },
-  {
-    "teal": 620,
-    "source": "contracts/TrailCheq.algo.ts:93",
-    "pc": [
-      749
-    ]
-  },
-  {
-    "teal": 621,
-    "source": "contracts/TrailCheq.algo.ts:93",
-    "pc": [
+      748,
+      749,
       750
     ]
   },
   {
-    "teal": 622,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 620,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      751
+      751,
+      752
+    ]
+  },
+  {
+    "teal": 621,
+    "source": "contracts/TrailCheq.algo.ts:98",
+    "pc": [
+      753,
+      754
+    ]
+  },
+  {
+    "teal": 622,
+    "source": "contracts/TrailCheq.algo.ts:98",
+    "pc": [
+      755
     ]
   },
   {
     "teal": 623,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      752,
-      753
-    ]
-  },
-  {
-    "teal": 624,
-    "source": "contracts/TrailCheq.algo.ts:93",
-    "pc": [
-      754,
-      755,
       756
     ]
   },
   {
-    "teal": 625,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 624,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
       757,
-      758
+      758,
+      759
     ]
   },
   {
-    "teal": 626,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 625,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      759,
-      760
-    ]
-  },
-  {
-    "teal": 627,
-    "source": "contracts/TrailCheq.algo.ts:93",
-    "pc": [
+      760,
       761
     ]
   },
   {
-    "teal": 628,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 626,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      762
+      762,
+      763
     ]
   },
   {
-    "teal": 629,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 627,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      763,
       764,
       765
     ]
   },
   {
-    "teal": 630,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 628,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      766,
-      767
+      766
     ]
   },
   {
-    "teal": 631,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 629,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
+      767,
       768,
       769
     ]
   },
   {
-    "teal": 632,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 630,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
       770,
       771
     ]
   },
   {
-    "teal": 633,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 631,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      772
+      772,
+      773
     ]
   },
   {
-    "teal": 634,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 632,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      773,
-      774,
+      774
+    ]
+  },
+  {
+    "teal": 633,
+    "source": "contracts/TrailCheq.algo.ts:98",
+    "pc": [
       775
     ]
   },
   {
-    "teal": 635,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 634,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
       776,
-      777
+      777,
+      778
     ]
   },
   {
-    "teal": 636,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 635,
+    "source": "contracts/TrailCheq.algo.ts:98",
     "pc": [
-      778,
-      779
-    ]
-  },
-  {
-    "teal": 637,
-    "source": "contracts/TrailCheq.algo.ts:93",
-    "pc": [
+      779,
       780
     ]
   },
   {
-    "teal": 638,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 636,
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
-      781
+      781,
+      782
     ]
   },
   {
-    "teal": 639,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 637,
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
-      782,
-      783,
+      783
+    ]
+  },
+  {
+    "teal": 638,
+    "source": "contracts/TrailCheq.algo.ts:96",
+    "pc": [
       784
     ]
   },
   {
-    "teal": 640,
-    "source": "contracts/TrailCheq.algo.ts:93",
+    "teal": 639,
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
-      785,
+      785
+    ]
+  },
+  {
+    "teal": 640,
+    "source": "contracts/TrailCheq.algo.ts:96",
+    "pc": [
       786
     ]
   },
   {
     "teal": 641,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
-      787,
-      788
+      787
     ]
   },
   {
-    "teal": 642,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "teal": 645,
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
+      788,
       789
     ]
   },
   {
-    "teal": 643,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "teal": 646,
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
       790
     ]
   },
   {
-    "teal": 644,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "teal": 649,
+    "source": "contracts/TrailCheq.algo.ts:96",
+    "errorMessage": "box value does not exist: this.products(id).value",
     "pc": [
       791
     ]
   },
   {
-    "teal": 645,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "teal": 650,
+    "source": "contracts/TrailCheq.algo.ts:99",
     "pc": [
-      792
-    ]
-  },
-  {
-    "teal": 646,
-    "source": "contracts/TrailCheq.algo.ts:91",
-    "pc": [
+      792,
       793
     ]
   },
   {
-    "teal": 650,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "teal": 651,
+    "source": "contracts/TrailCheq.algo.ts:99",
     "pc": [
       794,
       795
     ]
   },
   {
-    "teal": 651,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "teal": 652,
+    "source": "contracts/TrailCheq.algo.ts:99",
     "pc": [
-      796
-    ]
-  },
-  {
-    "teal": 654,
-    "source": "contracts/TrailCheq.algo.ts:91",
-    "errorMessage": "box value does not exist: this.products(id).value",
-    "pc": [
+      796,
       797
     ]
   },
   {
-    "teal": 655,
-    "source": "contracts/TrailCheq.algo.ts:94",
+    "teal": 653,
+    "source": "contracts/TrailCheq.algo.ts:99",
     "pc": [
       798,
       799
     ]
   },
   {
-    "teal": 656,
-    "source": "contracts/TrailCheq.algo.ts:94",
+    "teal": 654,
+    "source": "contracts/TrailCheq.algo.ts:99",
     "pc": [
-      800,
+      800
+    ]
+  },
+  {
+    "teal": 655,
+    "source": "contracts/TrailCheq.algo.ts:99",
+    "pc": [
       801
     ]
   },
   {
-    "teal": 657,
-    "source": "contracts/TrailCheq.algo.ts:94",
+    "teal": 656,
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
       802,
       803
     ]
   },
   {
-    "teal": 658,
-    "source": "contracts/TrailCheq.algo.ts:94",
+    "teal": 657,
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
-      804,
+      804
+    ]
+  },
+  {
+    "teal": 658,
+    "source": "contracts/TrailCheq.algo.ts:96",
+    "pc": [
       805
     ]
   },
   {
     "teal": 659,
-    "source": "contracts/TrailCheq.algo.ts:94",
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
       806
     ]
   },
   {
     "teal": 660,
-    "source": "contracts/TrailCheq.algo.ts:94",
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
       807
     ]
   },
   {
     "teal": 661,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
-      808,
+      808
+    ]
+  },
+  {
+    "teal": 665,
+    "source": "contracts/TrailCheq.algo.ts:101",
+    "pc": [
       809
     ]
   },
   {
-    "teal": 662,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "teal": 666,
+    "source": "contracts/TrailCheq.algo.ts:101",
     "pc": [
-      810
-    ]
-  },
-  {
-    "teal": 663,
-    "source": "contracts/TrailCheq.algo.ts:91",
-    "pc": [
+      810,
       811
     ]
   },
   {
-    "teal": 664,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "teal": 667,
+    "source": "contracts/TrailCheq.algo.ts:101",
     "pc": [
       812
     ]
   },
   {
-    "teal": 665,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "teal": 668,
+    "source": "contracts/TrailCheq.algo.ts:101",
     "pc": [
       813
     ]
   },
   {
-    "teal": 666,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "teal": 669,
+    "source": "contracts/TrailCheq.algo.ts:101",
     "pc": [
       814
     ]
   },
   {
     "teal": 670,
-    "source": "contracts/TrailCheq.algo.ts:96",
+    "source": "contracts/TrailCheq.algo.ts:101",
     "pc": [
-      815
-    ]
-  },
-  {
-    "teal": 671,
-    "source": "contracts/TrailCheq.algo.ts:96",
-    "pc": [
+      815,
       816,
       817
     ]
   },
   {
-    "teal": 672,
-    "source": "contracts/TrailCheq.algo.ts:96",
+    "teal": 671,
+    "source": "contracts/TrailCheq.algo.ts:101",
     "pc": [
       818
     ]
   },
   {
-    "teal": 673,
-    "source": "contracts/TrailCheq.algo.ts:96",
+    "teal": 672,
+    "source": "contracts/TrailCheq.algo.ts:101",
     "pc": [
       819
     ]
   },
   {
-    "teal": 674,
-    "source": "contracts/TrailCheq.algo.ts:96",
+    "teal": 673,
+    "source": "contracts/TrailCheq.algo.ts:101",
     "pc": [
       820
     ]
   },
   {
-    "teal": 675,
-    "source": "contracts/TrailCheq.algo.ts:96",
+    "teal": 674,
+    "source": "contracts/TrailCheq.algo.ts:101",
     "pc": [
-      821,
-      822,
-      823
+      821
+    ]
+  },
+  {
+    "teal": 675,
+    "source": "contracts/TrailCheq.algo.ts:101",
+    "pc": [
+      822
     ]
   },
   {
     "teal": 676,
-    "source": "contracts/TrailCheq.algo.ts:96",
+    "source": "contracts/TrailCheq.algo.ts:101",
     "pc": [
-      824
+      823
     ]
   },
   {
     "teal": 677,
     "source": "contracts/TrailCheq.algo.ts:96",
     "pc": [
+      824,
       825
     ]
   },
@@ -3776,66 +3765,48 @@
     ]
   },
   {
-    "teal": 679,
+    "teal": 681,
     "source": "contracts/TrailCheq.algo.ts:96",
+    "errorMessage": "box value does not exist: this.products(id).value",
     "pc": [
       827
     ]
   },
   {
-    "teal": 680,
-    "source": "contracts/TrailCheq.algo.ts:96",
+    "teal": 682,
+    "source": "contracts/TrailCheq.algo.ts:101",
     "pc": [
       828
     ]
   },
   {
-    "teal": 681,
-    "source": "contracts/TrailCheq.algo.ts:96",
+    "teal": 683,
+    "source": "contracts/TrailCheq.algo.ts:89",
     "pc": [
       829
     ]
   },
   {
-    "teal": 682,
-    "source": "contracts/TrailCheq.algo.ts:91",
+    "teal": 688,
+    "source": "contracts/TrailCheq.algo.ts:105",
     "pc": [
       830,
-      831
-    ]
-  },
-  {
-    "teal": 683,
-    "source": "contracts/TrailCheq.algo.ts:91",
-    "pc": [
+      831,
       832
     ]
   },
   {
-    "teal": 686,
-    "source": "contracts/TrailCheq.algo.ts:91",
-    "errorMessage": "box value does not exist: this.products(id).value",
+    "teal": 689,
+    "source": "contracts/TrailCheq.algo.ts:105",
     "pc": [
-      833
-    ]
-  },
-  {
-    "teal": 687,
-    "source": "contracts/TrailCheq.algo.ts:96",
-    "pc": [
-      834
-    ]
-  },
-  {
-    "teal": 688,
-    "source": "contracts/TrailCheq.algo.ts:84",
-    "pc": [
+      833,
+      834,
       835
     ]
   },
   {
-    "teal": 693,
-    "source": "contracts/TrailCheq.algo.ts:100",
+    "teal": 692,
+    "source": "contracts/TrailCheq.algo.ts:105",
     "pc": [
       836,
       837,
@@ -3843,428 +3814,440 @@
     ]
   },
   {
-    "teal": 694,
-    "source": "contracts/TrailCheq.algo.ts:100",
+    "teal": 693,
+    "source": "contracts/TrailCheq.algo.ts:105",
     "pc": [
-      839,
-      840,
-      841
+      839
     ]
   },
   {
-    "teal": 697,
-    "source": "contracts/TrailCheq.algo.ts:100",
+    "teal": 694,
+    "source": "contracts/TrailCheq.algo.ts:105",
     "pc": [
-      842,
-      843,
-      844
+      840
     ]
   },
   {
     "teal": 698,
-    "source": "contracts/TrailCheq.algo.ts:100",
+    "source": "contracts/TrailCheq.algo.ts:105",
     "pc": [
-      845
+      841,
+      842,
+      843
     ]
   },
   {
-    "teal": 699,
-    "source": "contracts/TrailCheq.algo.ts:100",
+    "teal": 702,
+    "source": "contracts/TrailCheq.algo.ts:109",
     "pc": [
-      846
+      844
     ]
   },
   {
     "teal": 703,
-    "source": "contracts/TrailCheq.algo.ts:100",
+    "source": "contracts/TrailCheq.algo.ts:109",
     "pc": [
-      847,
-      848,
+      845,
+      846
+    ]
+  },
+  {
+    "teal": 704,
+    "source": "contracts/TrailCheq.algo.ts:109",
+    "pc": [
+      847
+    ]
+  },
+  {
+    "teal": 705,
+    "source": "contracts/TrailCheq.algo.ts:109",
+    "pc": [
+      848
+    ]
+  },
+  {
+    "teal": 706,
+    "source": "contracts/TrailCheq.algo.ts:109",
+    "pc": [
       849
     ]
   },
   {
     "teal": 707,
-    "source": "contracts/TrailCheq.algo.ts:104",
+    "source": "contracts/TrailCheq.algo.ts:109",
     "pc": [
-      850
-    ]
-  },
-  {
-    "teal": 708,
-    "source": "contracts/TrailCheq.algo.ts:104",
-    "pc": [
+      850,
       851,
       852
     ]
   },
   {
-    "teal": 709,
-    "source": "contracts/TrailCheq.algo.ts:104",
+    "teal": 708,
+    "source": "contracts/TrailCheq.algo.ts:109",
     "pc": [
       853
     ]
   },
   {
-    "teal": 710,
-    "source": "contracts/TrailCheq.algo.ts:104",
+    "teal": 709,
+    "source": "contracts/TrailCheq.algo.ts:109",
     "pc": [
       854
     ]
   },
   {
-    "teal": 711,
-    "source": "contracts/TrailCheq.algo.ts:104",
+    "teal": 710,
+    "source": "contracts/TrailCheq.algo.ts:109",
     "pc": [
       855
     ]
   },
   {
-    "teal": 712,
-    "source": "contracts/TrailCheq.algo.ts:104",
+    "teal": 711,
+    "source": "contracts/TrailCheq.algo.ts:109",
     "pc": [
-      856,
-      857,
-      858
+      856
+    ]
+  },
+  {
+    "teal": 712,
+    "source": "contracts/TrailCheq.algo.ts:109",
+    "pc": [
+      857
     ]
   },
   {
     "teal": 713,
-    "source": "contracts/TrailCheq.algo.ts:104",
+    "source": "contracts/TrailCheq.algo.ts:109",
+    "pc": [
+      858
+    ]
+  },
+  {
+    "teal": 714,
+    "source": "contracts/TrailCheq.algo.ts:109",
     "pc": [
       859
     ]
   },
   {
-    "teal": 714,
-    "source": "contracts/TrailCheq.algo.ts:104",
+    "teal": 718,
+    "source": "contracts/TrailCheq.algo.ts:112",
     "pc": [
       860
     ]
   },
   {
-    "teal": 715,
-    "source": "contracts/TrailCheq.algo.ts:104",
+    "teal": 719,
+    "source": "contracts/TrailCheq.algo.ts:112",
     "pc": [
-      861
-    ]
-  },
-  {
-    "teal": 716,
-    "source": "contracts/TrailCheq.algo.ts:104",
-    "pc": [
+      861,
       862
     ]
   },
   {
-    "teal": 717,
-    "source": "contracts/TrailCheq.algo.ts:104",
+    "teal": 720,
+    "source": "contracts/TrailCheq.algo.ts:112",
     "pc": [
       863
     ]
   },
   {
-    "teal": 718,
-    "source": "contracts/TrailCheq.algo.ts:104",
+    "teal": 721,
+    "source": "contracts/TrailCheq.algo.ts:112",
     "pc": [
       864
     ]
   },
   {
-    "teal": 719,
-    "source": "contracts/TrailCheq.algo.ts:104",
+    "teal": 722,
+    "source": "contracts/TrailCheq.algo.ts:112",
     "pc": [
       865
     ]
   },
   {
     "teal": 723,
-    "source": "contracts/TrailCheq.algo.ts:107",
+    "source": "contracts/TrailCheq.algo.ts:112",
     "pc": [
-      866
-    ]
-  },
-  {
-    "teal": 724,
-    "source": "contracts/TrailCheq.algo.ts:107",
-    "pc": [
+      866,
       867,
       868
     ]
   },
   {
-    "teal": 725,
-    "source": "contracts/TrailCheq.algo.ts:107",
+    "teal": 724,
+    "source": "contracts/TrailCheq.algo.ts:112",
     "pc": [
       869
     ]
   },
   {
-    "teal": 726,
-    "source": "contracts/TrailCheq.algo.ts:107",
+    "teal": 725,
+    "source": "contracts/TrailCheq.algo.ts:112",
     "pc": [
       870
     ]
   },
   {
-    "teal": 727,
-    "source": "contracts/TrailCheq.algo.ts:107",
+    "teal": 726,
+    "source": "contracts/TrailCheq.algo.ts:112",
     "pc": [
       871
     ]
   },
   {
-    "teal": 728,
-    "source": "contracts/TrailCheq.algo.ts:107",
+    "teal": 727,
+    "source": "contracts/TrailCheq.algo.ts:112",
     "pc": [
-      872,
+      872
+    ]
+  },
+  {
+    "teal": 731,
+    "source": "contracts/TrailCheq.algo.ts:113",
+    "pc": [
       873,
       874
     ]
   },
   {
-    "teal": 729,
-    "source": "contracts/TrailCheq.algo.ts:107",
+    "teal": 732,
+    "source": "contracts/TrailCheq.algo.ts:113",
     "pc": [
-      875
-    ]
-  },
-  {
-    "teal": 730,
-    "source": "contracts/TrailCheq.algo.ts:107",
-    "pc": [
+      875,
       876
     ]
   },
   {
-    "teal": 731,
-    "source": "contracts/TrailCheq.algo.ts:107",
+    "teal": 733,
+    "source": "contracts/TrailCheq.algo.ts:113",
     "pc": [
       877
     ]
   },
   {
-    "teal": 732,
-    "source": "contracts/TrailCheq.algo.ts:107",
+    "teal": 734,
+    "source": "contracts/TrailCheq.algo.ts:113",
     "pc": [
       878
     ]
   },
   {
-    "teal": 736,
-    "source": "contracts/TrailCheq.algo.ts:108",
+    "teal": 735,
+    "source": "contracts/TrailCheq.algo.ts:113",
     "pc": [
-      879,
-      880
+      879
     ]
   },
   {
-    "teal": 737,
-    "source": "contracts/TrailCheq.algo.ts:108",
+    "teal": 736,
+    "source": "contracts/TrailCheq.algo.ts:113",
     "pc": [
+      880,
       881,
       882
     ]
   },
   {
-    "teal": 738,
-    "source": "contracts/TrailCheq.algo.ts:108",
+    "teal": 737,
+    "source": "contracts/TrailCheq.algo.ts:113",
     "pc": [
       883
     ]
   },
   {
-    "teal": 739,
-    "source": "contracts/TrailCheq.algo.ts:108",
+    "teal": 738,
+    "source": "contracts/TrailCheq.algo.ts:113",
     "pc": [
       884
     ]
   },
   {
-    "teal": 740,
-    "source": "contracts/TrailCheq.algo.ts:108",
+    "teal": 739,
+    "source": "contracts/TrailCheq.algo.ts:113",
     "pc": [
       885
     ]
   },
   {
-    "teal": 741,
-    "source": "contracts/TrailCheq.algo.ts:108",
+    "teal": 740,
+    "source": "contracts/TrailCheq.algo.ts:113",
     "pc": [
-      886,
+      886
+    ]
+  },
+  {
+    "teal": 744,
+    "source": "contracts/TrailCheq.algo.ts:114",
+    "pc": [
       887,
       888
     ]
   },
   {
-    "teal": 742,
-    "source": "contracts/TrailCheq.algo.ts:108",
+    "teal": 745,
+    "source": "contracts/TrailCheq.algo.ts:114",
     "pc": [
       889
     ]
   },
   {
-    "teal": 743,
-    "source": "contracts/TrailCheq.algo.ts:108",
+    "teal": 746,
+    "source": "contracts/TrailCheq.algo.ts:114",
     "pc": [
       890
     ]
   },
   {
-    "teal": 744,
-    "source": "contracts/TrailCheq.algo.ts:108",
+    "teal": 747,
+    "source": "contracts/TrailCheq.algo.ts:114",
     "pc": [
       891
     ]
   },
   {
-    "teal": 745,
-    "source": "contracts/TrailCheq.algo.ts:108",
+    "teal": 748,
+    "source": "contracts/TrailCheq.algo.ts:114",
     "pc": [
       892
     ]
   },
   {
     "teal": 749,
-    "source": "contracts/TrailCheq.algo.ts:109",
+    "source": "contracts/TrailCheq.algo.ts:114",
     "pc": [
-      893,
-      894
+      893
     ]
   },
   {
     "teal": 750,
-    "source": "contracts/TrailCheq.algo.ts:109",
+    "source": "contracts/TrailCheq.algo.ts:114",
+    "pc": [
+      894
+    ]
+  },
+  {
+    "teal": 751,
+    "source": "contracts/TrailCheq.algo.ts:114",
     "pc": [
       895
     ]
   },
   {
-    "teal": 751,
-    "source": "contracts/TrailCheq.algo.ts:109",
+    "teal": 755,
+    "source": "contracts/TrailCheq.algo.ts:117",
     "pc": [
       896
     ]
   },
   {
-    "teal": 752,
-    "source": "contracts/TrailCheq.algo.ts:109",
+    "teal": 756,
+    "source": "contracts/TrailCheq.algo.ts:117",
     "pc": [
       897
     ]
   },
   {
-    "teal": 753,
-    "source": "contracts/TrailCheq.algo.ts:109",
+    "teal": 757,
+    "source": "contracts/TrailCheq.algo.ts:117",
     "pc": [
       898
     ]
   },
   {
-    "teal": 754,
-    "source": "contracts/TrailCheq.algo.ts:109",
+    "teal": 758,
+    "source": "contracts/TrailCheq.algo.ts:117",
     "pc": [
       899
     ]
   },
   {
-    "teal": 755,
-    "source": "contracts/TrailCheq.algo.ts:109",
+    "teal": 759,
+    "source": "contracts/TrailCheq.algo.ts:117",
     "pc": [
       900
     ]
   },
   {
-    "teal": 756,
-    "source": "contracts/TrailCheq.algo.ts:109",
+    "teal": 760,
+    "source": "contracts/TrailCheq.algo.ts:117",
     "pc": [
       901
     ]
   },
   {
-    "teal": 760,
-    "source": "contracts/TrailCheq.algo.ts:112",
+    "teal": 761,
+    "source": "contracts/TrailCheq.algo.ts:105",
     "pc": [
       902
     ]
   },
   {
-    "teal": 761,
-    "source": "contracts/TrailCheq.algo.ts:112",
+    "teal": 766,
+    "source": "contracts/TrailCheq.algo.ts:121",
     "pc": [
       903
     ]
   },
   {
-    "teal": 762,
-    "source": "contracts/TrailCheq.algo.ts:112",
+    "teal": 769,
+    "source": "contracts/TrailCheq.algo.ts:121",
     "pc": [
-      904
-    ]
-  },
-  {
-    "teal": 763,
-    "source": "contracts/TrailCheq.algo.ts:112",
-    "pc": [
-      905
-    ]
-  },
-  {
-    "teal": 764,
-    "source": "contracts/TrailCheq.algo.ts:112",
-    "pc": [
+      904,
+      905,
       906
     ]
   },
   {
-    "teal": 765,
-    "source": "contracts/TrailCheq.algo.ts:112",
+    "teal": 770,
+    "source": "contracts/TrailCheq.algo.ts:121",
     "pc": [
-      907
-    ]
-  },
-  {
-    "teal": 766,
-    "source": "contracts/TrailCheq.algo.ts:112",
-    "pc": [
-      908
-    ]
-  },
-  {
-    "teal": 767,
-    "source": "contracts/TrailCheq.algo.ts:100",
-    "pc": [
+      907,
+      908,
       909
     ]
   },
   {
-    "teal": 772,
-    "source": "contracts/TrailCheq.algo.ts:116",
+    "teal": 773,
+    "source": "contracts/TrailCheq.algo.ts:121",
     "pc": [
-      910
+      910,
+      911,
+      912
     ]
   },
   {
-    "teal": 775,
-    "source": "contracts/TrailCheq.algo.ts:116",
+    "teal": 774,
+    "source": "contracts/TrailCheq.algo.ts:121",
     "pc": [
-      911,
-      912,
       913
     ]
   },
   {
-    "teal": 776,
-    "source": "contracts/TrailCheq.algo.ts:116",
+    "teal": 775,
+    "source": "contracts/TrailCheq.algo.ts:121",
     "pc": [
-      914,
-      915,
+      914
+    ]
+  },
+  {
+    "teal": 776,
+    "source": "contracts/TrailCheq.algo.ts:121",
+    "pc": [
+      915
+    ]
+  },
+  {
+    "teal": 777,
+    "source": "contracts/TrailCheq.algo.ts:121",
+    "pc": [
       916
     ]
   },
   {
-    "teal": 779,
-    "source": "contracts/TrailCheq.algo.ts:116",
+    "teal": 781,
+    "source": "contracts/TrailCheq.algo.ts:121",
     "pc": [
       917,
       918,
@@ -4272,454 +4255,436 @@
     ]
   },
   {
-    "teal": 780,
-    "source": "contracts/TrailCheq.algo.ts:116",
+    "teal": 785,
+    "source": "contracts/TrailCheq.algo.ts:122",
     "pc": [
       920
     ]
   },
   {
-    "teal": 781,
-    "source": "contracts/TrailCheq.algo.ts:116",
+    "teal": 786,
+    "source": "contracts/TrailCheq.algo.ts:122",
     "pc": [
-      921
-    ]
-  },
-  {
-    "teal": 782,
-    "source": "contracts/TrailCheq.algo.ts:116",
-    "pc": [
+      921,
       922
     ]
   },
   {
-    "teal": 783,
-    "source": "contracts/TrailCheq.algo.ts:116",
+    "teal": 787,
+    "source": "contracts/TrailCheq.algo.ts:122",
     "pc": [
       923
     ]
   },
   {
-    "teal": 787,
-    "source": "contracts/TrailCheq.algo.ts:116",
+    "teal": 788,
+    "source": "contracts/TrailCheq.algo.ts:122",
     "pc": [
-      924,
-      925,
-      926
+      924
+    ]
+  },
+  {
+    "teal": 789,
+    "source": "contracts/TrailCheq.algo.ts:122",
+    "pc": [
+      925
+    ]
+  },
+  {
+    "teal": 790,
+    "source": "contracts/TrailCheq.algo.ts:122",
+    "pc": [
+      926,
+      927,
+      928
     ]
   },
   {
     "teal": 791,
-    "source": "contracts/TrailCheq.algo.ts:117",
+    "source": "contracts/TrailCheq.algo.ts:122",
     "pc": [
-      927
-    ]
-  },
-  {
-    "teal": 792,
-    "source": "contracts/TrailCheq.algo.ts:117",
-    "pc": [
-      928,
       929
     ]
   },
   {
-    "teal": 793,
-    "source": "contracts/TrailCheq.algo.ts:117",
+    "teal": 792,
+    "source": "contracts/TrailCheq.algo.ts:122",
     "pc": [
       930
     ]
   },
   {
-    "teal": 794,
-    "source": "contracts/TrailCheq.algo.ts:117",
+    "teal": 793,
+    "source": "contracts/TrailCheq.algo.ts:122",
     "pc": [
       931
     ]
   },
   {
-    "teal": 795,
-    "source": "contracts/TrailCheq.algo.ts:117",
+    "teal": 794,
+    "source": "contracts/TrailCheq.algo.ts:122",
     "pc": [
       932
     ]
   },
   {
-    "teal": 796,
-    "source": "contracts/TrailCheq.algo.ts:117",
+    "teal": 795,
+    "source": "contracts/TrailCheq.algo.ts:122",
     "pc": [
-      933,
-      934,
-      935
+      933
+    ]
+  },
+  {
+    "teal": 796,
+    "source": "contracts/TrailCheq.algo.ts:122",
+    "pc": [
+      934
     ]
   },
   {
     "teal": 797,
-    "source": "contracts/TrailCheq.algo.ts:117",
+    "source": "contracts/TrailCheq.algo.ts:122",
+    "pc": [
+      935
+    ]
+  },
+  {
+    "teal": 801,
+    "source": "contracts/TrailCheq.algo.ts:123",
     "pc": [
       936
     ]
   },
   {
-    "teal": 798,
-    "source": "contracts/TrailCheq.algo.ts:117",
+    "teal": 802,
+    "source": "contracts/TrailCheq.algo.ts:123",
     "pc": [
-      937
-    ]
-  },
-  {
-    "teal": 799,
-    "source": "contracts/TrailCheq.algo.ts:117",
-    "pc": [
+      937,
       938
     ]
   },
   {
-    "teal": 800,
-    "source": "contracts/TrailCheq.algo.ts:117",
+    "teal": 803,
+    "source": "contracts/TrailCheq.algo.ts:123",
     "pc": [
       939
     ]
   },
   {
-    "teal": 801,
-    "source": "contracts/TrailCheq.algo.ts:117",
+    "teal": 804,
+    "source": "contracts/TrailCheq.algo.ts:123",
     "pc": [
       940
     ]
   },
   {
-    "teal": 802,
-    "source": "contracts/TrailCheq.algo.ts:117",
+    "teal": 805,
+    "source": "contracts/TrailCheq.algo.ts:123",
     "pc": [
       941
     ]
   },
   {
-    "teal": 803,
-    "source": "contracts/TrailCheq.algo.ts:117",
+    "teal": 806,
+    "source": "contracts/TrailCheq.algo.ts:123",
     "pc": [
-      942
+      942,
+      943,
+      944
     ]
   },
   {
     "teal": 807,
-    "source": "contracts/TrailCheq.algo.ts:118",
+    "source": "contracts/TrailCheq.algo.ts:123",
     "pc": [
-      943
-    ]
-  },
-  {
-    "teal": 808,
-    "source": "contracts/TrailCheq.algo.ts:118",
-    "pc": [
-      944,
       945
     ]
   },
   {
-    "teal": 809,
-    "source": "contracts/TrailCheq.algo.ts:118",
+    "teal": 808,
+    "source": "contracts/TrailCheq.algo.ts:123",
     "pc": [
       946
     ]
   },
   {
-    "teal": 810,
-    "source": "contracts/TrailCheq.algo.ts:118",
+    "teal": 809,
+    "source": "contracts/TrailCheq.algo.ts:123",
     "pc": [
       947
     ]
   },
   {
-    "teal": 811,
-    "source": "contracts/TrailCheq.algo.ts:118",
+    "teal": 810,
+    "source": "contracts/TrailCheq.algo.ts:123",
     "pc": [
       948
     ]
   },
   {
-    "teal": 812,
-    "source": "contracts/TrailCheq.algo.ts:118",
-    "pc": [
-      949,
-      950,
-      951
-    ]
-  },
-  {
     "teal": 813,
-    "source": "contracts/TrailCheq.algo.ts:118",
+    "source": "contracts/TrailCheq.algo.ts:123",
+    "errorMessage": "box value does not exist: this.products(productId).value",
     "pc": [
-      952
+      949
     ]
   },
   {
     "teal": 814,
-    "source": "contracts/TrailCheq.algo.ts:118",
+    "source": "contracts/TrailCheq.algo.ts:121",
     "pc": [
-      953
+      950
     ]
   },
   {
-    "teal": 815,
-    "source": "contracts/TrailCheq.algo.ts:118",
+    "teal": 819,
+    "source": "contracts/TrailCheq.algo.ts:127",
     "pc": [
+      951
+    ]
+  },
+  {
+    "teal": 822,
+    "source": "contracts/TrailCheq.algo.ts:127",
+    "pc": [
+      952,
+      953,
       954
     ]
   },
   {
-    "teal": 816,
-    "source": "contracts/TrailCheq.algo.ts:118",
+    "teal": 823,
+    "source": "contracts/TrailCheq.algo.ts:127",
     "pc": [
       955
     ]
   },
   {
-    "teal": 819,
-    "source": "contracts/TrailCheq.algo.ts:118",
-    "errorMessage": "box value does not exist: this.products(productId).value",
+    "teal": 826,
+    "source": "contracts/TrailCheq.algo.ts:127",
     "pc": [
-      956
-    ]
-  },
-  {
-    "teal": 820,
-    "source": "contracts/TrailCheq.algo.ts:116",
-    "pc": [
-      957
-    ]
-  },
-  {
-    "teal": 825,
-    "source": "contracts/TrailCheq.algo.ts:122",
-    "pc": [
+      956,
+      957,
       958
     ]
   },
   {
-    "teal": 828,
-    "source": "contracts/TrailCheq.algo.ts:122",
+    "teal": 827,
+    "source": "contracts/TrailCheq.algo.ts:127",
     "pc": [
-      959,
-      960,
-      961
+      959
+    ]
+  },
+  {
+    "teal": 828,
+    "source": "contracts/TrailCheq.algo.ts:127",
+    "pc": [
+      960
     ]
   },
   {
     "teal": 829,
-    "source": "contracts/TrailCheq.algo.ts:122",
+    "source": "contracts/TrailCheq.algo.ts:127",
     "pc": [
-      962
+      961
     ]
   },
   {
-    "teal": 832,
-    "source": "contracts/TrailCheq.algo.ts:122",
+    "teal": 830,
+    "source": "contracts/TrailCheq.algo.ts:127",
     "pc": [
+      962,
       963,
-      964,
+      964
+    ]
+  },
+  {
+    "teal": 831,
+    "source": "contracts/TrailCheq.algo.ts:127",
+    "pc": [
       965
     ]
   },
   {
-    "teal": 833,
-    "source": "contracts/TrailCheq.algo.ts:122",
+    "teal": 832,
+    "source": "contracts/TrailCheq.algo.ts:127",
     "pc": [
       966
     ]
   },
   {
-    "teal": 834,
-    "source": "contracts/TrailCheq.algo.ts:122",
+    "teal": 833,
+    "source": "contracts/TrailCheq.algo.ts:127",
     "pc": [
       967
     ]
   },
   {
-    "teal": 835,
-    "source": "contracts/TrailCheq.algo.ts:122",
+    "teal": 834,
+    "source": "contracts/TrailCheq.algo.ts:127",
     "pc": [
       968
     ]
   },
   {
+    "teal": 835,
+    "source": "contracts/TrailCheq.algo.ts:127",
+    "pc": [
+      969
+    ]
+  },
+  {
     "teal": 836,
-    "source": "contracts/TrailCheq.algo.ts:122",
+    "source": "contracts/TrailCheq.algo.ts:127",
     "pc": [
-      969,
-      970,
-      971
-    ]
-  },
-  {
-    "teal": 837,
-    "source": "contracts/TrailCheq.algo.ts:122",
-    "pc": [
-      972
-    ]
-  },
-  {
-    "teal": 838,
-    "source": "contracts/TrailCheq.algo.ts:122",
-    "pc": [
-      973
-    ]
-  },
-  {
-    "teal": 839,
-    "source": "contracts/TrailCheq.algo.ts:122",
-    "pc": [
-      974
+      970
     ]
   },
   {
     "teal": 840,
-    "source": "contracts/TrailCheq.algo.ts:122",
+    "source": "contracts/TrailCheq.algo.ts:127",
     "pc": [
+      971,
+      972,
+      973
+    ]
+  },
+  {
+    "teal": 844,
+    "source": "contracts/TrailCheq.algo.ts:128",
+    "pc": [
+      974,
       975
     ]
   },
   {
-    "teal": 841,
-    "source": "contracts/TrailCheq.algo.ts:122",
+    "teal": 845,
+    "source": "contracts/TrailCheq.algo.ts:128",
     "pc": [
       976
     ]
   },
   {
-    "teal": 842,
-    "source": "contracts/TrailCheq.algo.ts:122",
+    "teal": 846,
+    "source": "contracts/TrailCheq.algo.ts:128",
     "pc": [
       977
     ]
   },
   {
-    "teal": 846,
-    "source": "contracts/TrailCheq.algo.ts:122",
+    "teal": 847,
+    "source": "contracts/TrailCheq.algo.ts:128",
     "pc": [
-      978,
-      979,
-      980
+      978
     ]
   },
   {
-    "teal": 850,
-    "source": "contracts/TrailCheq.algo.ts:123",
+    "teal": 848,
+    "source": "contracts/TrailCheq.algo.ts:128",
     "pc": [
-      981,
-      982
-    ]
-  },
-  {
-    "teal": 851,
-    "source": "contracts/TrailCheq.algo.ts:123",
-    "pc": [
-      983
+      979
     ]
   },
   {
     "teal": 852,
-    "source": "contracts/TrailCheq.algo.ts:123",
+    "source": "contracts/TrailCheq.algo.ts:129",
+    "pc": [
+      980,
+      981
+    ]
+  },
+  {
+    "teal": 853,
+    "source": "contracts/TrailCheq.algo.ts:129",
+    "pc": [
+      982,
+      983
+    ]
+  },
+  {
+    "teal": 854,
+    "source": "contracts/TrailCheq.algo.ts:129",
     "pc": [
       984
     ]
   },
   {
-    "teal": 853,
-    "source": "contracts/TrailCheq.algo.ts:123",
+    "teal": 855,
+    "source": "contracts/TrailCheq.algo.ts:129",
     "pc": [
       985
     ]
   },
   {
-    "teal": 854,
-    "source": "contracts/TrailCheq.algo.ts:123",
+    "teal": 856,
+    "source": "contracts/TrailCheq.algo.ts:129",
     "pc": [
       986
     ]
   },
   {
-    "teal": 858,
-    "source": "contracts/TrailCheq.algo.ts:124",
+    "teal": 859,
+    "source": "contracts/TrailCheq.algo.ts:129",
+    "errorMessage": "box value does not exist: this.productKeys(index).value",
     "pc": [
-      987,
-      988
+      987
     ]
   },
   {
-    "teal": 859,
-    "source": "contracts/TrailCheq.algo.ts:124",
+    "teal": 860,
+    "source": "contracts/TrailCheq.algo.ts:129",
     "pc": [
+      988,
       989,
       990
     ]
   },
   {
-    "teal": 860,
-    "source": "contracts/TrailCheq.algo.ts:124",
+    "teal": 861,
+    "source": "contracts/TrailCheq.algo.ts:127",
     "pc": [
       991
     ]
   },
   {
-    "teal": 861,
-    "source": "contracts/TrailCheq.algo.ts:124",
+    "teal": 864,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
       992
     ]
   },
   {
-    "teal": 862,
-    "source": "contracts/TrailCheq.algo.ts:124",
+    "teal": 865,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
       993
     ]
   },
   {
-    "teal": 865,
-    "source": "contracts/TrailCheq.algo.ts:124",
-    "errorMessage": "box value does not exist: this.productKeys(index).value",
+    "teal": 868,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      994
-    ]
-  },
-  {
-    "teal": 866,
-    "source": "contracts/TrailCheq.algo.ts:124",
-    "pc": [
+      994,
       995,
       996,
-      997
-    ]
-  },
-  {
-    "teal": 867,
-    "source": "contracts/TrailCheq.algo.ts:122",
-    "pc": [
-      998
-    ]
-  },
-  {
-    "teal": 870,
-    "source": "contracts/TrailCheq.algo.ts:16",
-    "pc": [
+      997,
+      998,
       999
     ]
   },
   {
-    "teal": 871,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 869,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1000
+      1000,
+      1001,
+      1002
     ]
   },
   {
-    "teal": 874,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 870,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1001,
-      1002,
       1003,
       1004,
       1005,
@@ -4727,18 +4692,19 @@
     ]
   },
   {
-    "teal": 875,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 873,
+    "source": "contracts/TrailCheq.algo.ts:14",
+    "errorMessage": "this contract does not implement the given ABI method for create NoOp",
     "pc": [
-      1007,
-      1008,
-      1009
+      1007
     ]
   },
   {
     "teal": 876,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
+      1008,
+      1009,
       1010,
       1011,
       1012,
@@ -4746,645 +4712,625 @@
     ]
   },
   {
-    "teal": 879,
-    "source": "contracts/TrailCheq.algo.ts:16",
-    "errorMessage": "this contract does not implement the given ABI method for create NoOp",
+    "teal": 877,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1014
-    ]
-  },
-  {
-    "teal": 882,
-    "source": "contracts/TrailCheq.algo.ts:16",
-    "pc": [
+      1014,
       1015,
       1016,
       1017,
       1018,
-      1019,
-      1020
+      1019
     ]
   },
   {
-    "teal": 883,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 878,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
+      1020,
       1021,
       1022,
       1023,
       1024,
-      1025,
-      1026
+      1025
     ]
   },
   {
-    "teal": 884,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 879,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
+      1026,
       1027,
       1028,
       1029,
       1030,
-      1031,
-      1032
+      1031
     ]
   },
   {
-    "teal": 885,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 880,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
+      1032,
       1033,
       1034,
       1035,
       1036,
-      1037,
-      1038
+      1037
     ]
   },
   {
-    "teal": 886,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 881,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
+      1038,
       1039,
       1040,
       1041,
       1042,
-      1043,
-      1044
+      1043
     ]
   },
   {
-    "teal": 887,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 882,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
+      1044,
       1045,
-      1046,
+      1046
+    ]
+  },
+  {
+    "teal": 883,
+    "source": "contracts/TrailCheq.algo.ts:14",
+    "pc": [
       1047,
       1048,
       1049,
-      1050
-    ]
-  },
-  {
-    "teal": 888,
-    "source": "contracts/TrailCheq.algo.ts:16",
-    "pc": [
+      1050,
       1051,
       1052,
-      1053
-    ]
-  },
-  {
-    "teal": 889,
-    "source": "contracts/TrailCheq.algo.ts:16",
-    "pc": [
+      1053,
       1054,
       1055,
       1056,
       1057,
       1058,
       1059,
-      1060,
-      1061,
-      1062,
-      1063,
-      1064,
-      1065,
-      1066,
-      1067
+      1060
     ]
   },
   {
-    "teal": 892,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 886,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "errorMessage": "this contract does not implement the given ABI method for call NoOp",
     "pc": [
+      1061
+    ]
+  },
+  {
+    "teal": 889,
+    "source": "contracts/TrailCheq.algo.ts:14",
+    "pc": [
+      1062,
+      1063,
+      1064
+    ]
+  },
+  {
+    "teal": 890,
+    "source": "contracts/TrailCheq.algo.ts:14",
+    "pc": [
+      1065,
+      1066
+    ]
+  },
+  {
+    "teal": 891,
+    "source": "contracts/TrailCheq.algo.ts:14",
+    "pc": [
+      1067,
       1068
     ]
   },
   {
-    "teal": 895,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 892,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1069,
+      1069
+    ]
+  },
+  {
+    "teal": 893,
+    "source": "contracts/TrailCheq.algo.ts:14",
+    "pc": [
       1070,
       1071
     ]
   },
   {
-    "teal": 896,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 894,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
       1072,
       1073
     ]
   },
   {
-    "teal": 897,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 895,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1074,
-      1075
+      1074
     ]
   },
   {
     "teal": 898,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1076
+      1075,
+      1076,
+      1077
     ]
   },
   {
     "teal": 899,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1077,
-      1078
+      1078,
+      1079
     ]
   },
   {
     "teal": 900,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1079,
-      1080
-    ]
-  },
-  {
-    "teal": 901,
-    "source": "contracts/TrailCheq.algo.ts:16",
-    "pc": [
+      1080,
       1081
     ]
   },
   {
-    "teal": 904,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 901,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1082,
+      1082
+    ]
+  },
+  {
+    "teal": 902,
+    "source": "contracts/TrailCheq.algo.ts:14",
+    "pc": [
       1083,
       1084
     ]
   },
   {
-    "teal": 905,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 903,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
       1085,
       1086
     ]
   },
   {
-    "teal": 906,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 904,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1087,
+      1087
+    ]
+  },
+  {
+    "teal": 905,
+    "source": "contracts/TrailCheq.algo.ts:14",
+    "pc": [
       1088
     ]
   },
   {
-    "teal": 907,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 906,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1089
+      1089,
+      1090
     ]
   },
   {
-    "teal": 908,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 907,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1090,
       1091
     ]
   },
   {
-    "teal": 909,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 908,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1092,
+      1092
+    ]
+  },
+  {
+    "teal": 909,
+    "source": "contracts/TrailCheq.algo.ts:14",
+    "pc": [
       1093
     ]
   },
   {
     "teal": 910,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1094
+      1094,
+      1095,
+      1096
     ]
   },
   {
     "teal": 911,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1095
-    ]
-  },
-  {
-    "teal": 912,
-    "source": "contracts/TrailCheq.algo.ts:16",
-    "pc": [
-      1096,
-      1097
-    ]
-  },
-  {
-    "teal": 913,
-    "source": "contracts/TrailCheq.algo.ts:16",
-    "pc": [
+      1097,
       1098
     ]
   },
   {
-    "teal": 914,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 912,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1099
-    ]
-  },
-  {
-    "teal": 915,
-    "source": "contracts/TrailCheq.algo.ts:16",
-    "pc": [
+      1099,
       1100
     ]
   },
   {
-    "teal": 916,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 913,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1101,
-      1102,
-      1103
+      1101
+    ]
+  },
+  {
+    "teal": 914,
+    "source": "contracts/TrailCheq.algo.ts:14",
+    "pc": [
+      1102
+    ]
+  },
+  {
+    "teal": 915,
+    "source": "contracts/TrailCheq.algo.ts:14",
+    "pc": [
+      1103,
+      1104
+    ]
+  },
+  {
+    "teal": 916,
+    "source": "contracts/TrailCheq.algo.ts:14",
+    "pc": [
+      1105,
+      1106
     ]
   },
   {
     "teal": 917,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1104,
-      1105
-    ]
-  },
-  {
-    "teal": 918,
-    "source": "contracts/TrailCheq.algo.ts:16",
-    "pc": [
-      1106,
-      1107
-    ]
-  },
-  {
-    "teal": 919,
-    "source": "contracts/TrailCheq.algo.ts:16",
-    "pc": [
+      1107,
       1108
     ]
   },
   {
-    "teal": 920,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 918,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1109
+      1109,
+      1110
     ]
   },
   {
-    "teal": 921,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 919,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1110,
       1111
     ]
   },
   {
     "teal": 922,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
       1112,
-      1113
+      1113,
+      1114
     ]
   },
   {
     "teal": 923,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1114,
-      1115
+      1115,
+      1116
     ]
   },
   {
     "teal": 924,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1116,
-      1117
-    ]
-  },
-  {
-    "teal": 925,
-    "source": "contracts/TrailCheq.algo.ts:16",
-    "pc": [
+      1117,
       1118
     ]
   },
   {
-    "teal": 928,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 925,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
       1119,
-      1120,
+      1120
+    ]
+  },
+  {
+    "teal": 926,
+    "source": "contracts/TrailCheq.algo.ts:14",
+    "pc": [
       1121
     ]
   },
   {
-    "teal": 929,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 927,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
       1122,
       1123
     ]
   },
   {
-    "teal": 930,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 928,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
       1124,
-      1125
+      1125,
+      1126
     ]
   },
   {
-    "teal": 931,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 929,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1126,
       1127
     ]
   },
   {
-    "teal": 932,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 930,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1128
-    ]
-  },
-  {
-    "teal": 933,
-    "source": "contracts/TrailCheq.algo.ts:16",
-    "pc": [
+      1128,
       1129,
       1130
     ]
   },
   {
-    "teal": 934,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 933,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1131,
-      1132,
+      1131
+    ]
+  },
+  {
+    "teal": 934,
+    "source": "contracts/TrailCheq.algo.ts:14",
+    "pc": [
+      1132
+    ]
+  },
+  {
+    "teal": 937,
+    "source": "contracts/TrailCheq.algo.ts:14",
+    "pc": [
       1133
     ]
   },
   {
-    "teal": 935,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 938,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1134
-    ]
-  },
-  {
-    "teal": 936,
-    "source": "contracts/TrailCheq.algo.ts:16",
-    "pc": [
+      1134,
       1135,
-      1136,
-      1137
+      1136
     ]
   },
   {
     "teal": 939,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
+      1137,
       1138
     ]
   },
   {
     "teal": 940,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
       1139
     ]
   },
   {
-    "teal": 943,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 941,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1140
+      1140,
+      1141
     ]
   },
   {
-    "teal": 944,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 942,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1141,
-      1142,
+      1142
+    ]
+  },
+  {
+    "teal": 943,
+    "source": "contracts/TrailCheq.algo.ts:14",
+    "pc": [
       1143
     ]
   },
   {
-    "teal": 945,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 944,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
       1144,
       1145
     ]
   },
   {
-    "teal": 946,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 945,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
       1146
     ]
   },
   {
-    "teal": 947,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 948,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
       1147,
       1148
     ]
   },
   {
-    "teal": 948,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 949,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
       1149
     ]
   },
   {
-    "teal": 949,
-    "source": "contracts/TrailCheq.algo.ts:16",
-    "pc": [
-      1150
-    ]
-  },
-  {
     "teal": 950,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1151,
-      1152
+      1150,
+      1151
     ]
   },
   {
     "teal": 951,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1153
+      1152
     ]
   },
   {
-    "teal": 954,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 952,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
+      1153,
       1154,
       1155
     ]
   },
   {
-    "teal": 955,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 953,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1156
+      1156,
+      1157
     ]
   },
   {
-    "teal": 956,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 954,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1157,
       1158
     ]
   },
   {
-    "teal": 957,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 955,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1159
+      1159,
+      1160
+    ]
+  },
+  {
+    "teal": 956,
+    "source": "contracts/TrailCheq.algo.ts:14",
+    "pc": [
+      1161
+    ]
+  },
+  {
+    "teal": 957,
+    "source": "contracts/TrailCheq.algo.ts:14",
+    "pc": [
+      1162,
+      1163
     ]
   },
   {
     "teal": 958,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1160,
-      1161,
-      1162
-    ]
-  },
-  {
-    "teal": 959,
-    "source": "contracts/TrailCheq.algo.ts:16",
-    "pc": [
-      1163,
-      1164
-    ]
-  },
-  {
-    "teal": 960,
-    "source": "contracts/TrailCheq.algo.ts:16",
-    "pc": [
-      1165
+      1164,
+      1165,
+      1166
     ]
   },
   {
     "teal": 961,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1166,
-      1167
-    ]
-  },
-  {
-    "teal": 962,
-    "source": "contracts/TrailCheq.algo.ts:16",
-    "pc": [
+      1167,
       1168
     ]
   },
   {
-    "teal": 963,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 962,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
       1169,
       1170
     ]
   },
   {
-    "teal": 964,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 963,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1171,
-      1172,
-      1173
+      1171
     ]
   },
   {
-    "teal": 967,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 964,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
-      1174,
-      1175
+      1172
+    ]
+  },
+  {
+    "teal": 965,
+    "source": "contracts/TrailCheq.algo.ts:14",
+    "pc": [
+      1173,
+      1174
     ]
   },
   {
     "teal": 968,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "source": "contracts/TrailCheq.algo.ts:14",
+    "pc": [
+      1175
+    ]
+  },
+  {
+    "teal": 969,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
       1176,
       1177
     ]
   },
   {
-    "teal": 969,
-    "source": "contracts/TrailCheq.algo.ts:16",
+    "teal": 970,
+    "source": "contracts/TrailCheq.algo.ts:14",
     "pc": [
       1178
-    ]
-  },
-  {
-    "teal": 970,
-    "source": "contracts/TrailCheq.algo.ts:16",
-    "pc": [
-      1179
-    ]
-  },
-  {
-    "teal": 971,
-    "source": "contracts/TrailCheq.algo.ts:16",
-    "pc": [
-      1180,
-      1181
-    ]
-  },
-  {
-    "teal": 974,
-    "source": "contracts/TrailCheq.algo.ts:16",
-    "pc": [
-      1182
-    ]
-  },
-  {
-    "teal": 975,
-    "source": "contracts/TrailCheq.algo.ts:16",
-    "pc": [
-      1183,
-      1184
-    ]
-  },
-  {
-    "teal": 976,
-    "source": "contracts/TrailCheq.algo.ts:16",
-    "pc": [
-      1185
     ]
   }
 ]
