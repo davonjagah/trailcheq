@@ -2,13 +2,12 @@
 <h1 align="center">
     <br>
     <a href="https://github.com/davonjagah/trailcheq">
-        <img src="./public/trailchew.JPG" alt="crowdfund" width="130" height="130" />
+        <img src="./public/trailcheq.JPG" alt="trailcheq" width="130" height="130" />
     </a>
     <br>
 </h1>
 
 <h3 align="center">Verify the authenticity of a product using Algorand blockchain by simply inputing it’s ID code or scanning it’s QR code.</h3>
-![Algorand Badge](https://img.shields.io/badge/Algorand-000?logo=algorand&logoColor=fff&style=for-the-badge)
 
 <p align="center">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript version" height="20" style="
