@@ -1,8 +1,8 @@
 
 <h1 align="center">
     <br>
-    <a href="https://github.com/davonjagah/trailcheq">
-        <img src="./public/trailcheq.JPG" alt="trailcheq" width="130" height="130" />
+    <a href="https://github.com/davonjagah/traillcheq">
+        <img src="./public/traillcheq.JPG" alt="trailcheq" width="800" height="300" />
     </a>
     <br>
 </h1>
@@ -45,7 +45,7 @@ If one company supplies a product to another, such as a farm providing meat to a
 <h1 align="center">
     <br>
     <a href="https://github.com/davonjagah/trailcheq">
-        <img src="./public/achri.png" alt="crowdfund" width="200" height="200" />
+        <img src="./public/achri.png" alt="crowdfund" width="700" height="500" />
     </a>
     <br>
 </h1>
