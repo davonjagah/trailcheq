@@ -1,10 +1,72 @@
-# trailcheq
-Supply chain, Traceability on Algorand
+
+<h1 align="center">
+    <br>
+    <a href="https://github.com/davonjagah/trailcheq">
+        <img src="./public/trailchew.JPG" alt="crowdfund" width="130" height="130" />
+    </a>
+    <br>
+</h1>
+
+<h3 align="center">Verify the authenticity of a product using Algorand blockchain by simply inputing it’s ID code or scanning it’s QR code.</h3>
+![Algorand Badge](https://img.shields.io/badge/Algorand-000?logo=algorand&logoColor=fff&style=for-the-badge)
+
+<p align="center">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript version" height="20" style="
+       border-radius: 20px;
+    ">
+        <img src="https://img.shields.io/badge/Algorand-000?logo=algorand&logoColor=fff&style=for-the-badge" alt="Built on Algorand">
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="Reactjs">
+    <img src="https://img.shields.io/badge/Teal-005149?logo=teal&logoColor=fff&style=for-the-badge" alt="tealscript">
+</p>
+
+<p align="center">
+    <a href="#-about">About</a> •
+    <a href="#-features">Features</a> •
+    <a href="#-folder-structure">Folder Structure</a> •
+    <a href="#-api-documentation">Installation</a> •
+    <a href="#-contributing">Contributing</a> •
+    <a href="#-team">Team</a>
+</p>
+
+## 📝 About.
+
+TrailCheq is a decentralized application built on the algorand blockchain that enables users to verify the authenticity of products by inputting their unique ID codes or scanning their QR codes. The platform leverages blockchain technology to create a tamper-proof record of product information, ensuring transparency and traceability throughout the supply chain.
 
 
-## Setup
+## 🎯 Features.
 
-### Initial setup
+Through Trailcheq’s frontend dashboard, companies can seamlessly manage their product portfolios. They can connect their Algorand wallet, create and edit products, and update descriptions to reflect lifecycle events. Consumers and businesses alike can use the “Cheq Screen” to input a product ID or scan a QR code, instantly verifying a product’s history and timeline, allowing them to make informed purchasing decisions.
+
+Product Lifecycle Management:
+Each product created by a registered company is assigned its own Algorand account, storing key information such as the product's name, category, description, lifecycle log, creation timestamp, and producer details. As products move through the supply chain, companies can log updates to the product description, allowing for the tracking of significant events like sourcing changes or processing milestones.
+
+If one company supplies a product to another, such as a farm providing meat to a burger manufacturer, the original product’s ID is referenced in the new product’s description. This cross-referencing creates a secure “chain of custody,” enabling both companies and consumers to trace a product’s journey through each stage of its lifecycle.
+
+
+<h1 align="center">
+    <br>
+    <a href="https://github.com/davonjagah/trailcheq">
+        <img src="./public/achri.png" alt="crowdfund" width="200" height="200" />
+    </a>
+    <br>
+</h1>
+
+## 🗂️ Folder Structure.
+
+```sh
+trailcheq/
+├── smart-contracts/
+├                   ├── contracts/
+├                        ├── trailCheq.algo.ts  (contains smart contracts code)
+├── frontend/
+     ├── contains frontend (contains small test cases for smart contracts)
+
+```
+
+## 📚 Documentation.
+
+<sup>[(Back to top)](#------------------------)</sup>
+
 1. Clone this repository to your local machine.
 2. Ensure [Docker](https://www.docker.com/) is installed and operational. Then, install `AlgoKit` following this [guide](https://github.com/algorandfoundation/algokit-cli#install).
 3. Run `algokit project bootstrap all` in the project directory. This command sets up your environment by installing necessary dependencies, setting up a Python virtual environment, and preparing your `.env` file.
@@ -16,30 +78,68 @@ Supply chain, Traceability on Algorand
 
 > This project is structured as a monorepo, refer to the [documentation](https://github.com/algorandfoundation/algokit-cli/blob/main/docs/features/project/run.md) to learn more about custom command orchestration via `algokit project run`.
 
-### Subsequently
 
-1. If you update to the latest source code and there are new dependencies, you will need to run `algokit project bootstrap all` again.
-2. Follow step 3 above.
+Requirements
 
-## Tools
+- Algokit
+- React Jsx
+- Tealscript
+- Node.js
+- NPM
+- Docker 
 
-This project makes use of Python and React to build Algorand smart contracts and to provide a base project configuration to develop frontends for your Algorand dApps and interactions with smart contracts. The following tools are in use:
+## 🚀 Installation.
 
-- Algorand, AlgoKit, and AlgoKit Utils
-- Python dependencies including Poetry, Black, Ruff or Flake8, mypy, pytest, and pip-audit
-- React and related dependencies including AlgoKit Utils, Tailwind CSS, daisyUI, use-wallet, npm, jest, playwright, Prettier, ESLint, and Github Actions workflows for build validation
+clone the repository using the following command:
 
-### VS Code
+```sh
+$  git clone git@github.com:davonjagah/trailcheq.git
+```
+ 
+Navigate to the project directory:
 
-It has also been configured to have a productive dev experience out of the box in [VS Code](https://code.visualstudio.com/), see the [backend .vscode](./backend/.vscode) and [frontend .vscode](./frontend/.vscode) folders for more details.
+```sh
+$ cd trailcheq
+```
 
-## Integrating with smart contracts and application clients
+To install the project dependencies, run the following command:
 
-Refer to the [trailcheq-contracts](projects/trailcheq-contracts/README.md) folder for overview of working with smart contracts, [projects/trailcheq-frontend](projects/trailcheq-frontend/README.md) for overview of the React project and the [projects/trailcheq-frontend/contracts](projects/trailcheq-frontend/src/contracts/README.md) folder for README on adding new smart contracts from backend as application clients on your frontend. The templates provided in these folders will help you get started.
-When you compile and generate smart contract artifacts, your frontend component will automatically generate typescript application clients from smart contract artifacts and move them to `frontend/src/contracts` folder, see [`generate:app-clients` in package.json](projects/trailcheq-frontend/package.json). Afterwards, you are free to import and use them in your frontend application.
+```sh
+$ algokit project bootstrap all
+```
 
-The frontend starter also provides an example of interactions with your TrailCheqClient in [`AppCalls.tsx`](projects/trailcheq-frontend/src/components/AppCalls.tsx) component by default.
+To build the project, run the following command:
 
-## Next Steps
+```sh
+$ algokit project run build
+```
 
-You can take this project and customize it to build your own decentralized applications on Algorand. Make sure to understand how to use AlgoKit and how to write smart contracts for Algorand before you start.
+To start the project, run the following command:
+
+```sh
+$ npm run start
+```
+
+## 👍 Contributing.
+
+We believe in the power of collaboration and welcome contributions from all members of the community irrespective of your domain knowledge and level of expertise, your input is valuable. Here are a few ways you can get involved:
+
+- Report bugs and issues
+- Suggest new features and enhancements
+- Contribute to the codebase by submitting pull requests
+- Share the project with your network
+- Provide feedback and suggestions for improvement
+
+## 👥 Team.
+
+- Samuel Tosin
+- David Kazeem
+
+## 👨🏽‍🍳 Developer Resources.
+
+- [Algokit](https://developer.algorand.org/docs/get-started/algokit/?__hstc=10350826.4f04cac7c96df4e2313e74a6c7e85669.1727669739788.1729608270578.1730778906712.5&__hssc=10350826.1.1730778906712&__hsfp=51185828)
+- [Tealscrip tutorial](https://www.youtube.com/playlist?list=PLwRyHoehE434hyDE6SvSrN-GUqAB07fju)
+
+## 📜 License.
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

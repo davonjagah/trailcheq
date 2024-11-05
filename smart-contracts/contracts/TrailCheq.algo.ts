@@ -32,7 +32,6 @@ export class TrailCheq extends Contract {
             created: uint64
       ): ProductInfo {
      
-
             // Verify product doesn't already exist
             assert(!this.products(id).exists, 'Product already exists');
 
